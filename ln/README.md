@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Kokanisa Sans Frontières <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Kokanisa Sans Frontières<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Bobongoli ya Markdown + générateur ya site statique ya minoko ebele.
 
@@ -8,11 +8,11 @@ Tongela noki mikanda mpe ba blogs internationales oyo esungaka [bankama ya minok
 
 Bato mosusu bakoki kotuna, lokola ba navigateurs nyonso ezali na misala ya kobongola, ezali na ntina te kosala ete site Internet yango ezala na mikili mosusu?
 
-Nalingi koloba ete**kaka basite Internet oyo ebimisaka mabongoli ya statique nde ekoki kosunga bolukiluki ya makomi mobimba na kati ya minɔkɔ mingi mpe kosala ete motɛ́lɛ ya boluki ezala malamu** .
+Nalingi koloba ete **kaka basite Internet oyo ebimisaka mabongoli ya statique nde ekoki kosunga bolukiluki ya makomi mobimba na kati ya minɔkɔ mingi mpe kosala ete motɛ́lɛ ya boluki ezala malamu** .
 
 ## Maloba Ya Ebandeli
 
-Roman ya science fiction &quot;Nzoto misato&quot; (prononciation chinois:`3Tǐ` ) e fictionaliser civilisation alienne oyo esalelaka ba mbonge électromagnétique mpo na kosolola, na makanisi ya polele mpe na technologie ya bomengo.
+Roman ya science fiction &quot;Nzoto misato&quot; (prononciation chinois: `3Tǐ` ) e fictionaliser civilisation alienne oyo esalelaka ba mbonge électromagnétique mpo na kosolola, na makanisi ya polele mpe na technologie ya bomengo.
 
 Biblia·Ebandeli :
 

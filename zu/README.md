@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Isizinda ⋅ Ukucabanga Ngaphandle Kwemingcele <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Isizinda ⋅ Ukucabanga Ngaphandle Kwemingcele<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown translation + multi-language static site generator.
 
@@ -8,11 +8,11 @@ Yakha ngokushesha imibhalo yamazwe ngamazwe namabhulogi asekela [amakhulu ezilim
 
 Abanye abantu bangase babuze, njengoba zonke iziphequluli zinemisebenzi yokuhumusha, akudingekile yini ukwenza iwebhusayithi ibe yamazwe ngamazwe?
 
-Ngingathanda ukusho ukuthi**amawebhusayithi kuphela akhiqiza ukuhumusha okumile angasekela ukusesha kwemibhalo egcwele yezilimi eziningi kanye nokwenza ngcono injini yokusesha** .
+Ngingathanda ukusho ukuthi **amawebhusayithi kuphela akhiqiza ukuhumusha okumile angasekela ukusesha kwemibhalo egcwele yezilimi eziningi kanye nokwenza ngcono injini yokusesha** .
 
 ## Isingeniso
 
-Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphinyiso lesiShayina:`3Tǐ` ) iqamba impucuko engaziwa esebenzisa amaza kagesi ukuze uxhumane, ngokucabanga okusobala nobuchwepheshe obuphumelelayo.
+Inoveli eqanjiwe yesayensi &quot;Imizimba Emithathu&quot; (iphinyiso lesiShayina: `3Tǐ` ) iqamba impucuko engaziwa esebenzisa amaza kagesi ukuze uxhumane, ngokucabanga okusobala nobuchwepheshe obuphumelelayo.
 
 IBhayibheli·Genesise :
 

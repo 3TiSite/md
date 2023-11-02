@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Gunea ⋅ Mugarik Gabe Pentsatuz <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Gunea ⋅ Mugarik Gabe Pentsatuz<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown itzulpena + hizkuntza anitzeko gune estatikoen sorgailua.
 
@@ -8,11 +8,11 @@ Eraiki azkar [ehunka hizkuntza](https://github.com/i18n-site/node/blob/main/lang
 
 Batzuek galdetu dezakete, arakatzaile guztiek itzulpen funtzioak dituztenez, ez al da beharrezkoa webgunea nazioartekotzea?
 
-Esan nahiko nuke**itzulpen estatikoak sortzen dituzten webguneek soilik onartzen dituztela testu osoko testu-bilaketa eta bilaketa-motoreen optimizazio eleaniztunak** .
+Esan nahi nuke **itzulpen estatikoak sortzen dituzten webguneek soilik onartzen dituztela testu osoko testu-bilaketa eleaniztunak eta bilaketa-motoreen optimizazioa** .
 
 ## Sarrera
 
-&quot;Three Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera:`3Tǐ` ) uhin elektromagnetikoak erabiltzen dituen zibilizazio arrotz bat fikzionatzen du komunikatzeko, pentsamendu gardenarekin eta teknologia oparoarekin.
+&quot;Three Body&quot; zientzia-fikziozko eleberriak (txinerazko ahoskera: `3Tǐ` ) uhin elektromagnetikoak erabiltzen dituen zibilizazio arrotz bat fikzionatzen du komunikatzeko, pentsamendu gardenarekin eta teknologia oparoarekin.
 
 Biblia·Genesis :
 

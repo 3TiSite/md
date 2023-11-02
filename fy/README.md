@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown oersetting + meartalige statyske sidegenerator.
 
@@ -8,11 +8,11 @@ Bou fluch ynternasjonale dokuminten en blogs dy't [hûnderten talen](https://git
 
 Guon minsken kinne freegje, om't alle browsers oersetfunksjes hawwe, is it net nedich om de webside te ynternasjonalisearjen?
 
-Ik soe graach sizze dat**allinich websiden dy't statyske oersettingen generearje, meartalige sykaksjes op 'e side en sykmasino-optimalisaasje kinne stypje** .
+Ik soe graach sizze dat **allinich websiden dy't statyske oersettingen generearje, meartalige sykaksjes op 'e side en sykmasino-optimalisaasje kinne stypje** .
 
 ## Ynlieding
 
-De science fiction-roman &quot;Three Body&quot; (Sineeske útspraak:`3Tǐ` ) fictionalisearret in frjemde beskaving dy't elektromagnetyske golven brûkt om te kommunisearjen, mei transparant tinken en bloeiende technology.
+De science fiction-roman &quot;Three Body&quot; (Sineeske útspraak: `3Tǐ` ) fictionalisearret in frjemde beskaving dy't elektromagnetyske golven brûkt om te kommunisearjen, mei transparant tinken en bloeiende technology.
 
 Bibel · Genesis :
 

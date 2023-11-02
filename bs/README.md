@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Razmišljanje bez granica <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Razmišljanje bez granica<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown prevod + višejezični generator statičkog sajta.
 
@@ -8,11 +8,11 @@ Brzo napravite međunarodne dokumente i blogove koji podržavaju [stotine jezika
 
 Neki ljudi mogu pitati, budući da svi pretraživači imaju funkcije prevođenja, da li je nepotrebno internacionalizirati web stranicu?
 
-Želio bih reći da**samo web stranice koje generiraju statičke prijevode mogu podržati višejezičnu pretragu cijelog teksta na stranici i optimizaciju tražilice** .
+Želio bih reći da **samo web stranice koje generiraju statičke prijevode mogu podržati višejezičnu pretragu cijelog teksta na stranici i optimizaciju tražilice** .
 
 ## Uvod
 
-Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor:`3Tǐ` ) fikcionalizira vanzemaljsku civilizaciju koja koristi elektromagnetne valove za komunikaciju, s transparentnim razmišljanjem i prosperitetnom tehnologijom.
+Naučnofantastični roman &quot;Tri tijela&quot; (kineski izgovor: `3Tǐ` ) fikcionalizira vanzemaljsku civilizaciju koja koristi elektromagnetne valove za komunikaciju, s transparentnim razmišljanjem i prosperitetnom tehnologijom.
 
 Biblija·Postanak :
 

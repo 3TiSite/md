@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Kufunga Pasina Border <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Kufunga Pasina Border<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown dudziro + yakawanda-mitauro inomira saiti jenareta.
 
@@ -8,11 +8,11 @@ Kurumidza kuvaka magwaro epasi rese uye mablog anotsigira [mazana emitauro](http
 
 Vamwe vanhu vangabvunza, sezvo mabhurawuza ese aine mabasa ekushandura, hazvina basa here kuita kuti webhusaiti iyi iite pasi rose?
 
-Ndinoda kutaura kuti**mawebhusaiti chete anogadzira shanduro dzakasimba anogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
+Ndinoda kutaura kuti **mawebhusaiti chete anogadzira shanduro dzakasimba anogona kutsigira mitauro yakawanda-in-saiti yakazara-zvinyorwa kutsvaga uye kutsvaga injini optimization** .
 
 ## Nhanganyaya
 
-Iro sainzi manyepo novel &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese:`3Tǐ` ) inofungidzira budiriro yevatorwa inoshandisa masaisai emagetsi kutaurirana, nekufunga kwakajeka uye tekinoroji yakabudirira.
+Iro sainzi manyepo novel &quot;Miviri Mitatu&quot; (Mataurirwo echiChinese: `3Tǐ` ) inofungidzira budiriro yevatorwa inoshandisa masaisai emagetsi kutaurirana, nekufunga kwakajeka uye tekinoroji yakabudirira.
 
 Bhaibheri·Genesisi :
 

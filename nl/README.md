@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Denken zonder grenzen <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Denken zonder grenzen<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown-vertaling + meertalige statische sitegenerator.
 
@@ -8,11 +8,11 @@ Bouw snel internationale documenten en blogs die [honderden talen](https://githu
 
 Sommige mensen vragen zich misschien af, aangezien alle browsers vertaalfuncties hebben: is het niet nodig om de website te internationaliseren?
 
-Ik zou willen zeggen dat**alleen websites die statische vertalingen genereren, meertalig in-site full-text zoeken en zoekmachineoptimalisatie kunnen ondersteunen** .
+Ik zou willen zeggen dat **alleen websites die statische vertalingen genereren, meertalig in-site full-text zoeken en zoekmachineoptimalisatie kunnen ondersteunen** .
 
 ## Invoering
 
-De sciencefictionroman &quot;Three Body&quot; (Chinese uitspraak:`3Tǐ` ) fictionaliseert een buitenaardse beschaving die elektromagnetische golven gebruikt om te communiceren, met transparant denken en welvarende technologie.
+De sciencefictionroman &quot;Three Body&quot; (Chinese uitspraak: `3Tǐ` ) fictionaliseert een buitenaardse beschaving die elektromagnetische golven gebruikt om te communiceren, met transparant denken en welvarende technologie.
 
 Bijbel·Genesis :
 

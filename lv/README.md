@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Domāšana bez robežām <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Domāšana bez robežām<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown tulkojums + vairāku valodu statisko vietņu ģenerators.
 
@@ -8,11 +8,11 @@
 
 Daži cilvēki var jautāt, jo visām pārlūkprogrammām ir tulkošanas funkcijas, vai nav nepieciešams internacionalizēt vietni?
 
-Es vēlos teikt, ka**tikai vietnes, kas ģenerē statiskus tulkojumus, var atbalstīt daudzvalodu pilna teksta meklēšanu vietnē un meklētājprogrammu optimizāciju** .
+Es vēlos teikt, ka **tikai vietnes, kas ģenerē statiskus tulkojumus, var atbalstīt daudzvalodu pilna teksta meklēšanu vietnē un meklētājprogrammu optimizāciju** .
 
 ## Ievads
 
-Zinātniskās fantastikas romānā &quot;Trīs ķermenis&quot; (ķīniešu izruna:`3Tǐ` ) ir izdomāta citplanētiešu civilizācija, kas saziņai izmanto elektromagnētiskos viļņus, ar caurspīdīgu domāšanu un plaukstošu tehnoloģiju.
+Zinātniskās fantastikas romānā &quot;Trīs ķermenis&quot; (ķīniešu izruna: `3Tǐ` ) ir izdomāta citplanētiešu civilizācija, kas saziņai izmanto elektromagnētiskos viļņus, ar caurspīdīgu domāšanu un plaukstošu tehnoloģiju.
 
 Bībele · Genesis :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Penser sans frontières <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Penser sans frontières<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, traduction Markdown + générateur de site statique multilingue.
 
@@ -8,11 +8,11 @@ Créez rapidement des documents et des blogs internationaux prenant en charge [d
 
 Certains se demanderont peut-être que, puisque tous les navigateurs ont des fonctions de traduction, est-il inutile d’internationaliser le site Web ?
 
-Je voudrais dire que**seuls les sites Web qui génèrent des traductions statiques peuvent prendre en charge la recherche multilingue en texte intégral sur site et l'optimisation des moteurs de recherche** .
+Je voudrais dire que **seuls les sites Web qui génèrent des traductions statiques peuvent prendre en charge la recherche multilingue en texte intégral sur site et l'optimisation des moteurs de recherche** .
 
 ## Introduction
 
-Le roman de science-fiction « Trois corps » (prononciation chinoise :`3Tǐ` ) met en scène une civilisation extraterrestre qui utilise des ondes électromagnétiques pour communiquer, avec une pensée transparente et une technologie prospère.
+Le roman de science-fiction « Trois corps » (prononciation chinoise : `3Tǐ` ) met en scène une civilisation extraterrestre qui utilise des ondes électromagnétiques pour communiquer, avec une pensée transparente et une technologie prospère.
 
 Bible·Genèse :
 

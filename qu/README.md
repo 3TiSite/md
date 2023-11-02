@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Siti ⋅ Mana Fronterayuq Yuyay <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Siti ⋅ Mana Fronterayuq Yuyay<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown tikray + achka simiyuq sitio estático generador.
 
@@ -8,11 +8,11 @@ Utqaylla ruway internacional qillqakunata chaymanta blogkunata [pachak simikunat
 
 Wakin runakuna tapunkuman, llapa navegadorkuna tikray ruwanakunayuq kasqankurayku, ¿mana necesariochu web kitita internacionalización ruway?
 
-Niyta munani**, web kitikunalla tikraykunata ruwaqkunalla yanapayta atinku achka simipi sitio ukhupi hunt'asqa qillqa maskana chaymanta maskanakuna allinchayta** .
+Niyta munani **, web kitikunalla tikraykunata ruwaqkunalla yanapayta atinku achka simipi sitio ukhupi hunt'asqa qillqa maskana chaymanta maskanakuna allinchayta** .
 
 ## Qallariy
 
-&quot;Kimsa Kurku&quot; (China simipi t'uqyay:`3Tǐ` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética nisqa olakunawan rimanakunku, sut'i yuyaywan, allin tecnologiawan.
+&quot;Kimsa Kurku&quot; (China simipi t'uqyay: `3Tǐ` ) ciencia ficción nisqa novelaqa huk hawa llaqtayuq civilización nisqatam ficcionalizan, chaymi electromagnética nisqa olakunawan rimanakunku, sut'i yuyaywan, allin tecnologiawan.
 
 Biblia·Génesis :
 

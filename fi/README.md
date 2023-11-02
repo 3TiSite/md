@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown-käännös + monikielinen staattinen sivustogeneraattori.
 
@@ -8,11 +8,11 @@ Luo nopeasti kansainvälisiä asiakirjoja ja blogeja, jotka tukevat [satoja kiel
 
 Jotkut saattavat kysyä, onko verkkosivuston kansainvälistäminen tarpeetonta, koska kaikissa selaimissa on käännöstoimintoja?
 
-Haluaisin sanoa, että**vain staattisia käännöksiä tuottavat verkkosivustot voivat tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
+Haluaisin sanoa, että **vain staattisia käännöksiä tuottavat verkkosivustot voivat tukea monikielistä sivuston sisäistä kokotekstihakua ja hakukoneoptimointia** .
 
 ## Johdanto
 
-Tieteiskirjallisuusromaani &quot;Three Body&quot; (ääntäminen kiinaksi:`3Tǐ` ) fiktioi ulkomaalaisen sivilisaation, joka käyttää sähkömagneettisia aaltoja kommunikointiin läpinäkyvällä ajattelulla ja vauraalla tekniikalla.
+Tieteiskirjallisuusromaani &quot;Three Body&quot; (ääntäminen kiinaksi: `3Tǐ` ) fiktioi ulkomaalaisen sivilisaation, joka käyttää sähkömagneettisia aaltoja kommunikointiin läpinäkyvällä ajattelulla ja vauraalla tekniikalla.
 
 Raamattu · Genesis :
 

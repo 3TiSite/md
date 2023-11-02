@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Myślenie bez granic <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Myślenie bez granic<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, tłumaczenie Markdown + wielojęzyczny generator stron statycznych.
 
@@ -8,11 +8,11 @@ Szybko twórz międzynarodowe dokumenty i blogi obsługujące [setki języków](
 
 Niektórzy mogą zapytać, czy skoro wszystkie przeglądarki mają funkcje tłumaczenia, nie jest konieczne umiędzynarodowienie witryny?
 
-Chciałbym powiedzieć, że**tylko witryny generujące tłumaczenia statyczne mogą obsługiwać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
+Chciałbym powiedzieć, że **tylko witryny generujące tłumaczenia statyczne mogą obsługiwać wielojęzyczne wyszukiwanie pełnotekstowe w witrynie i optymalizację wyszukiwarek** .
 
 ## Wstęp
 
-Powieść science fiction „Trzy ciała” (chińska wymowa:`3Tǐ` ) fabularyzuje obcą cywilizację, która wykorzystuje fale elektromagnetyczne do komunikacji, zapewniając przejrzyste myślenie i dobrze prosperującą technologię.
+Powieść science fiction „Trzy ciała” (chińska wymowa: `3Tǐ` ) fabularyzuje obcą cywilizację, która wykorzystuje fale elektromagnetyczne do komunikacji, zapewniając przejrzyste myślenie i dobrze prosperującą technologię.
 
 Biblia · Geneza :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Dink Sonder Grense <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Dink Sonder Grense<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown-vertaling + multi-taal statiese werfgenerator.
 
@@ -8,11 +8,11 @@ Bou vinnig internasionale dokumente en blogs wat [honderde tale](https://github.
 
 Sommige mense mag dalk vra, aangesien alle blaaiers vertaalfunksies het, is dit onnodig om die webwerf te internasionaliseer?
 
-Ek wil graag sê dat**slegs webwerwe wat statiese vertalings genereer, veeltalige voltekssoektog op die webwerf en soekenjinoptimalisering kan ondersteun** .
+Ek wil graag sê dat **slegs webwerwe wat statiese vertalings genereer, veeltalige voltekssoektog op die webwerf en soekenjinoptimalisering kan ondersteun** .
 
 ## Inleiding
 
-Die wetenskapfiksie-roman &quot;Three Body&quot; (Chinese uitspraak:`3Tǐ` ) fiksionaliseer 'n uitheemse beskawing wat elektromagnetiese golwe gebruik om te kommunikeer, met deursigtige denke en voorspoedige tegnologie.
+Die wetenskapfiksie-roman &quot;Three Body&quot; (Chinese uitspraak: `3Tǐ` ) fiksionaliseer 'n uitheemse beskawing wat elektromagnetiese golwe gebruik om te kommunikeer, met deursigtige denke en voorspoedige tegnologie.
 
 Bybel·Genesis :
 

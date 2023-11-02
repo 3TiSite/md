@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Gondolkodás határok nélkül <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Gondolkodás határok nélkül<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown fordítás + többnyelvű statikus oldal generátor.
 
@@ -8,11 +8,11 @@ Készítsen gyorsan nemzetközi dokumentumokat és blogokat, amelyek [több szá
 
 Egyesek azt kérdezhetik, hogy mivel minden böngészőben van fordítási funkció, szükségtelen-e nemzetközivé tenni a webhelyet?
 
-Szeretném elmondani, hogy**csak a statikus fordításokat generáló webhelyek támogatják a többnyelvű, teljes szöveges keresést és a keresőoptimalizálást** .
+Szeretném elmondani, hogy **csak a statikus fordításokat generáló webhelyek támogatják a többnyelvű, teljes szöveges keresést és a keresőoptimalizálást** .
 
 ## Bevezetés
 
-A &quot;Három test&quot; (kínai kiejtés:`3Tǐ` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokat használ a kommunikációhoz, átlátható gondolkodással és virágzó technológiával.
+A &quot;Három test&quot; (kínai kiejtés: `3Tǐ` ) tudományos-fantasztikus regény egy idegen civilizációt képzel el, amely elektromágneses hullámokat használ a kommunikációhoz, átlátható gondolkodással és virágzó technológiával.
 
 Biblia · Genesis :
 

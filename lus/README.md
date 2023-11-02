@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ramri nei lo anga ngaihtuahna <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ramri nei lo anga ngaihtuahna<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown lehlin + tawng tam tak hmanga static site generator.
 
@@ -8,11 +8,11 @@
 
 Mi thenkhat chuan browser zawng zawng hian translation function an neih vek avangin website hi internationalize a ngai lo em ni tih an zawt mai thei.
 
-Ka sawi duh chu**, static translation siamtu website chauh hian multilingual in-site full-text search leh search engine optimization a support thei a ni** .
+Ka sawi duh chu **, static translation siamtu website chauh hian multilingual in-site full-text search leh search engine optimization a support thei a ni** .
 
 ## Inhmelhriattirna
 
-Science fiction novel &quot;Three Body&quot; (Chinese tawngkam:`3Tǐ` ) hian alien civilization pakhat, electromagnetic wave hmanga inbiakpawhna hmanga inbiakpawhna, ngaihtuahna langtlang leh technology hausa tak hmanga siam a ni.
+Science fiction novel &quot;Three Body&quot; (Chinese tawngkam: `3Tǐ` ) hian alien civilization pakhat, electromagnetic wave hmanga inbiakpawhna hmanga inbiakpawhna, ngaihtuahna langtlang leh technology hausa tak hmanga siam a ni.
 
 Bible·Genesis :
 

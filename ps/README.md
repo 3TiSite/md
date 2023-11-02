@@ -1,4 +1,4 @@
-undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl">undefined3Ti.Site ⋅ بې سرحده فکر کول <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site ⋅ بې سرحده فکر کول<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site، Markdown ژباړه + د څو ژبو جامد سایټ جنریټر.
 
@@ -8,11 +8,11 @@ undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl
 
 ځینې ​​​​خلک ممکن پوښتنه وکړي، ځکه چې ټول براوزرونه د ژباړې دندې لري، ایا دا اړینه نه ده چې ویب پاڼه نړیوال کړي؟
 
-زه غواړم ووایم چې**یوازې هغه ویب پاڼې چې جامد ژباړې رامینځته کوي کولی شي د څو ژبو دننه سایټ بشپړ متن لټون او د لټون انجن اصلاح کولو ملاتړ وکړي** .
+زه غواړم ووایم چې **یوازې هغه ویب پاڼې چې جامد ژباړې رامینځته کوي کولی شي د څو ژبو دننه سایټ بشپړ متن لټون او د لټون انجن اصلاح کولو ملاتړ وکړي** .
 
 ## پیژندنه
 
-د ساینسي افسانې ناول &quot;درې بدن&quot; (چینایي تلفظ:`3Tǐ` ) د یو بهرني تمدن افسانه کوي چې د روڼ فکر او هوسا ټیکنالوژۍ سره د خبرو اترو لپاره بریښنایی مقناطیسي څپې کاروي.
+د ساینسي افسانې ناول &quot;درې بدن&quot; (چینایي تلفظ: `3Tǐ` ) د یو بهرني تمدن افسانه کوي چې د روڼ فکر او هوسا ټیکنالوژۍ سره د خبرو اترو لپاره بریښنایی مقناطیسي څپې کاروي.
 
 انجیل · پیدایښت :
 

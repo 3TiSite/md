@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Mieritreritra tsy misy fetra <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Mieritreritra tsy misy fetra<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, fandikana Markdown + mpamorona tranokala static amin'ny fiteny maro.
 
@@ -8,11 +8,11 @@ Amboary haingana ireo antontan-taratasy sy bilaogy iraisam-pirenena manohana [fi
 
 Mety hanontany ny olona sasany, satria ny navigateur rehetra dia manana asa fandikan-teny, tsy ilaina ve ny manao iraisam-pirenena ny tranokala?
 
-Te-hilaza aho fa**ny vohikala mamorona fandikan-teny static ihany no afaka manohana ny fikarohana lahatsoratra feno amin'ny fiteny maro ao amin'ny tranokala sy ny fanatsarana ny milina fikarohana** .
+Te-hilaza aho fa **ny vohikala mamorona fandikan-teny static ihany no afaka manohana ny fikarohana lahatsoratra feno amin'ny fiteny maro ao amin'ny tranokala sy ny fanatsarana ny milina fikarohana** .
 
 ## Sava Lalana
 
-Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin'ny teny sinoa:`3Tǐ` ) dia mamorona sivilizasiona vahiny mampiasa onjam-peo elektromagnetika hifandraisana, miaraka amin'ny fisainana mangarahara sy ny teknolojia mandroso.
+Ny tantara foronina momba ny siansa &quot;Vata Telo&quot; (fanononana amin'ny teny sinoa: `3Tǐ` ) dia mamorona sivilizasiona vahiny mampiasa onjam-peo elektromagnetika hifandraisana, miaraka amin'ny fisainana mangarahara sy ny teknolojia mandroso.
 
 Baiboly·Genesisy :
 

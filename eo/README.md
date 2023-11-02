@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Retejo ⋅ Pensado Sen Limoj <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Retejo ⋅ Pensado Sen Limoj<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown-traduko + plurlingva statika retejo-generatoro.
 
@@ -8,11 +8,11 @@ Rapide konstruu internaciajn dokumentojn kaj blogojn kiuj subtenas [centojn da l
 
 Iuj homoj eble demandos, ĉar ĉiuj retumiloj havas tradukajn funkciojn, ĉu estas nenecese internaciigi la retejon?
 
-Mi ŝatus diri, ke**nur retejoj, kiuj generas senmovajn tradukojn, povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
+Mi ŝatus diri, ke **nur retejoj, kiuj generas senmovajn tradukojn, povas subteni plurlingvan enretejan plentekstan serĉon kaj serĉilon-optimumigo** .
 
 ## Enkonduko
 
-La sciencfikcia romano &quot;Tri Korpoj&quot; (ĉine elparolo:`3Tǐ` ) fikciigas eksterteran civilizacion kiu uzas elektromagnetajn ondojn por komuniki, kun travidebla pensado kaj prospera teknologio.
+La sciencfikcia romano &quot;Tri Korpoj&quot; (ĉine elparolo: `3Tǐ` ) fikciigas eksterteran civilizacion kiu uzas elektromagnetajn ondojn por komuniki, kun travidebla pensado kaj prospera teknologio.
 
 Biblio·Genezo :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ku Ehleketa Handle ka Mindzilakano <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ku Ehleketa Handle ka Mindzilakano<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Vuhundzuluxi bya Markdown + jeneretara ya sayiti leyi nga cinciki ya tindzimi to tala.
 
@@ -8,11 +8,11 @@ Hi ku hatlisa aka matsalwa ya matiko ya misava na ti-blog leti seketelaka [madza
 
 Vanhu van’wana va nga ha vutisa, tanihi leswi ti- browser hinkwato ti nga ni mintirho yo hundzuluxela, xana a swi bohi ku endla leswaku webusayiti yi va ya matiko hinkwawo?
 
-Ndzi lava ku vula leswaku**i tiwebsite ntsena leti humesaka vuhundzuluxeri lebyi nga cinciki leti nga seketelaka ku lavisisa matsalwa hinkwawo ya tindzimi to tala endzeni ka sayiti ni ku antswisiwa ka njhini yo lavisisa** .
+Ndzi lava ku vula leswaku **i tiwebsite ntsena leti humesaka vuhundzuluxeri lebyi nga cinciki leti nga seketelaka ku lavisisa matsalwa hinkwawo ya tindzimi to tala endzeni ka sayiti ni ku antswisiwa ka njhini yo lavisisa** .
 
 ## Manghenelo
 
-Novhele ya sayense ya ntsheketo &quot;Three Body&quot; (Mavitanelo ya Xichayina:`3Tǐ` ) yi endla nhluvuko wa ntsheketo wa vahlapfa lowu tirhisaka magandlati ya gezi ku vulavurisana, hi ku ehleketa loku nga erivaleni na thekinoloji leyi humelelaka.
+Novhele ya sayense ya ntsheketo &quot;Three Body&quot; (Mavitanelo ya Xichayina: `3Tǐ` ) yi endla nhluvuko wa ntsheketo wa vahlapfa lowu tirhisaka magandlati ya gezi ku vulavurisana, hi ku ehleketa loku nga erivaleni na thekinoloji leyi humelelaka.
 
 Bibele·Genesa :
 

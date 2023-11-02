@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Meddwl Heb Ffiniau <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Meddwl Heb Ffiniau<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown cyfieithu + aml-iaith generadur safle statig.
 
@@ -8,11 +8,11 @@ Adeiladu dogfennau a blogiau rhyngwladol yn gyflym sy'n cefnogi [cannoedd o ieit
 
 Efallai y bydd rhai pobl yn gofyn, gan fod gan bob porwr swyddogaethau cyfieithu, a yw'n ddiangen i ryngwladoli'r wefan?
 
-Hoffwn ddweud mai**dim ond gwefannau sy'n cynhyrchu cyfieithiadau statig sy'n gallu cefnogi chwilio testun llawn amlieithog ar y safle ac optimeiddio peiriannau chwilio** .
+Hoffwn ddweud **mai dim ond gwefannau sy'n cynhyrchu cyfieithiadau statig sy'n gallu cefnogi chwilio testun llawn amlieithog ar y safle ac optimeiddio peiriannau chwilio** .
 
 ## Rhagymadrodd
 
-Mae'r nofel ffuglen wyddonol &quot;Three Body&quot; (ynganiad Tsieineaidd:`3Tǐ` ) yn ffugio gwareiddiad estron sy'n defnyddio tonnau electromagnetig i gyfathrebu, gyda meddwl tryloyw a thechnoleg lewyrchus.
+Mae'r nofel ffuglen wyddonol &quot;Three Body&quot; (ynganiad Tsieineaidd: `3Tǐ` ) yn ffugio gwareiddiad estron sy'n defnyddio tonnau electromagnetig i gyfathrebu, gyda meddwl tryloyw a thechnoleg lewyrchus.
 
 Beibl·Genesis :
 

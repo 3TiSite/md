@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ 국경 없는 생각 <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ 국경 없는 생각<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, 마크다운 번역 + 다국어 정적 사이트 생성기.
 
@@ -12,7 +12,7 @@
 
 ## 소개
 
-공상과학소설 '삼체'(중국어 발음:`3Tǐ` )는 투명한 사고와 번영하는 기술로 전자파를 이용해 소통하는 외계 문명을 가상화한 작품이다.
+공상과학소설 '삼체'(중국어 발음: `3Tǐ` )는 투명한 사고와 번영하는 기술로 전자파를 이용해 소통하는 외계 문명을 가상화한 작품이다.
 
 성경·창세기 :
 

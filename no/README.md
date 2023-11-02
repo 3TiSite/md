@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Tenke uten grenser <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Tenke uten grenser<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown-oversettelse + flerspråklig statisk nettstedgenerator.
 
@@ -8,11 +8,11 @@ Bygg raskt internasjonale dokumenter og blogger som støtter [hundrevis av språ
 
 Noen vil kanskje spørre, siden alle nettlesere har oversettelsesfunksjoner, er det unødvendig å internasjonalisere nettstedet?
 
-Jeg vil gjerne si at**bare nettsteder som genererer statiske oversettelser kan støtte flerspråklig fulltekstsøk på stedet og søkemotoroptimalisering .**
+Jeg vil gjerne si at **bare nettsteder som genererer statiske oversettelser kan støtte flerspråklig fulltekstsøk på stedet og søkemotoroptimalisering .**
 
 ## Introduksjon
 
-Science fiction-romanen &quot;Three Body&quot; (kinesisk uttale:`3Tǐ` ) fiksjonaliserer en fremmed sivilisasjon som bruker elektromagnetiske bølger for å kommunisere, med transparent tenkning og velstående teknologi.
+Science fiction-romanen &quot;Three Body&quot; (kinesisk uttale: `3Tǐ` ) fiksjonaliserer en fremmed sivilisasjon som bruker elektromagnetiske bølger for å kommunisere, med transparent tenkning og velstående teknologi.
 
 Bibel · 1. Mosebok :
 

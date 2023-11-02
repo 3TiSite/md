@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Tovuti ⋅ Kufikiri Bila Mipaka <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Tovuti ⋅ Kufikiri Bila Mipaka<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, tafsiri ya Markdown + jenereta ya tovuti tuli ya lugha nyingi.
 
@@ -8,11 +8,11 @@ Unda hati za kimataifa na blogu kwa haraka zinazotumia [mamia ya lugha](https://
 
 Watu wengine wanaweza kuuliza, kwa kuwa vivinjari vyote vina kazi za kutafsiri, je, si lazima kufanya tovuti iwe ya kimataifa?
 
-Ningependa kusema kwamba**tovuti zinazozalisha tafsiri tuli pekee ndizo zinaweza kusaidia utafutaji wa maandishi kamili wa tovuti kwa lugha nyingi na uboreshaji wa injini ya utafutaji** .
+Ningependa kusema kwamba **tovuti zinazozalisha tafsiri tuli pekee ndizo zinaweza kusaidia utafutaji wa maandishi kamili wa tovuti kwa lugha nyingi na uboreshaji wa injini ya utafutaji** .
 
 ## Utangulizi
 
-Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina:`3Tǐ` ) inabuni ustaarabu ngeni unaotumia mawimbi ya sumakuumeme kuwasiliana, kwa kufikiri kwa uwazi na teknolojia yenye mafanikio.
+Riwaya ya kisayansi ya kubuni &quot;Miili Mitatu&quot; (Matamshi ya Kichina: `3Tǐ` ) inabuni ustaarabu ngeni unaotumia mawimbi ya sumakuumeme kuwasiliana, kwa kufikiri kwa uwazi na teknolojia yenye mafanikio.
 
 Biblia· Mwanzo :
 

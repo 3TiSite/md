@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Gândire fără frontiere <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Gândire fără frontiere<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, traducere Markdown + generator de site static în mai multe limbi.
 
@@ -8,11 +8,11 @@ Creați rapid documente și bloguri internaționale care acceptă [sute de limbi
 
 Unii oameni ar putea întreba, deoarece toate browserele au funcții de traducere, nu este necesară internaționalizarea site-ului?
 
-Aș dori să spun că**numai site-urile web care generează traduceri statice pot accepta căutarea multilingvă pe site și optimizarea motoarelor de căutare** .
+Aș dori să spun că **numai site-urile web care generează traduceri statice pot accepta căutarea multilingvă pe site și optimizarea motoarelor de căutare** .
 
 ## Introducere
 
-Romanul științifico-fantastic „Three Body” (pronunție chineză:`3Tǐ` ) ficționalizează o civilizație extraterestră care folosește unde electromagnetice pentru a comunica, cu gândire transparentă și tehnologie prosperă.
+Romanul științifico-fantastic „Three Body” (pronunție chineză: `3Tǐ` ) ficționalizează o civilizație extraterestră care folosește unde electromagnetice pentru a comunica, cu gândire transparentă și tehnologie prosperă.
 
 Biblia·Geneza :
 

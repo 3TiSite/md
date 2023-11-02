@@ -1,4 +1,4 @@
-undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl">undefined3Ti.Site ⋅ تفكير بلا حدود <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site ⋅ تفكير بلا حدود<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site، ترجمة Markdown + مولد مواقع ثابت متعدد اللغات.
 
@@ -8,11 +8,11 @@ undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl
 
 قد يتساءل البعض، نظرًا لأن جميع المتصفحات بها وظائف ترجمة، فهل من الضروري تدويل الموقع؟
 
-أود أن أقول إن**مواقع الويب التي تولد ترجمات ثابتة فقط هي التي يمكنها دعم البحث عن النص الكامل متعدد اللغات في الموقع وتحسين محرك البحث** .
+أود أن أقول إن **مواقع الويب التي تولد ترجمات ثابتة فقط هي التي يمكنها دعم البحث عن النص الكامل متعدد اللغات في الموقع وتحسين محرك البحث** .
 
 ## مقدمة
 
-رواية الخيال العلمي &quot;ثلاثة أجسام&quot; (النطق الصيني:`3Tǐ` ) تصور حضارة غريبة تستخدم الموجات الكهرومغناطيسية للتواصل، مع تفكير شفاف وتكنولوجيا مزدهرة.
+رواية الخيال العلمي &quot;ثلاثة أجسام&quot; (النطق الصيني: `3Tǐ` ) تصور حضارة غريبة تستخدم الموجات الكهرومغناطيسية للتواصل، مع تفكير شفاف وتكنولوجيا مزدهرة.
 
 الكتاب المقدس · سفر التكوين :
 

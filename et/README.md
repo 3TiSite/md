@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Piirideta mõtlemine <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Piirideta mõtlemine<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdowni tõlge + mitmekeelne staatiline saidi generaator.
 
@@ -8,11 +8,11 @@ Looge kiiresti [sadu keeli](https://github.com/i18n-site/node/blob/main/lang/src
 
 Mõned inimesed võivad küsida, et kuna kõikidel brauseritel on tõlkefunktsioonid, kas pole vaja veebisaiti rahvusvahelistuda?
 
-Tahaksin öelda, et**ainult veebisaidid, mis loovad staatilisi tõlkeid, saavad toetada mitmekeelset saidisisese täisteksti otsingut ja otsingumootori optimeerimist** .
+Tahaksin öelda, et **ainult veebisaidid, mis loovad staatilisi tõlkeid, saavad toetada mitmekeelset saidisisese täisteksti otsingut ja otsingumootori optimeerimist** .
 
 ## Sissejuhatus
 
-Ulmeromaan &quot;Kolm keha&quot; (hiina hääldus:`3Tǐ` ) kujutab endast läbipaistva mõtlemise ja õitseva tehnoloogiaga tulnukate tsivilisatsiooni, mis kasutab suhtlemiseks elektromagnetlaineid.
+Ulmeromaan &quot;Kolm keha&quot; (hiina hääldus: `3Tǐ` ) kujutab endast läbipaistva mõtlemise ja õitseva tehnoloogiaga tulnukate tsivilisatsiooni, mis kasutab suhtlemiseks elektromagnetlaineid.
 
 Piibel · Genesis :
 

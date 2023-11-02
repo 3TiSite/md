@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensare Senza Frontiere <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensare Senza Frontiere<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, traduzione Markdown + generatore di siti statici multilingue.
 
@@ -8,11 +8,11 @@ Crea rapidamente documenti e blog internazionali che supportano [centinaia di li
 
 Alcuni potrebbero chiedersi, dal momento che tutti i browser hanno funzioni di traduzione, non è necessario internazionalizzare il sito web?
 
-Vorrei dire che**solo i siti Web che generano traduzioni statiche possono supportare la ricerca multilingue del testo completo nel sito e l'ottimizzazione dei motori di ricerca** .
+Vorrei dire che **solo i siti Web che generano traduzioni statiche possono supportare la ricerca multilingue del testo completo nel sito e l'ottimizzazione dei motori di ricerca** .
 
 ## Introduzione
 
-Il romanzo di fantascienza &quot;Three Body&quot; (pronuncia cinese:`3Tǐ` ) immagina una civiltà aliena che utilizza le onde elettromagnetiche per comunicare, con un pensiero trasparente e una tecnologia prospera.
+Il romanzo di fantascienza &quot;Three Body&quot; (pronuncia cinese: `3Tǐ` ) immagina una civiltà aliena che utilizza le onde elettromagnetiche per comunicare, con un pensiero trasparente e una tecnologia prospera.
 
 Bibbia·Genesi :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Daangaa Malee Yaadu <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Daangaa Malee Yaadu<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Hiikkaa Markdown + jenereetarii saayitii istaatiksii afaanota hedduu.
 
@@ -8,11 +8,11 @@ Sanadoota idil-addunyaa fi biloogii [afaanota](https://github.com/i18n-site/node
 
 Namoonni tokko tokko, biraawzaroonni hundi hojii hiikkaa waan qabaniif, marsariiticha idil-addunyaa gochuun hin barbaachisuu?
 
-Ani akkan jedhutti**marsariitiiwwan hiikkaa static maddisiisan qofatu afaanota hedduu in-site full-text search fi search engine optimization** .
+Ani akkan jedhutti **marsariitiiwwan hiikkaa static maddisiisan qofatu afaanota hedduu in-site full-text search fi search engine optimization** .
 
 ## Seensa
 
-Asoosamni asoosama saayinsii &quot;Qaama Sadii&quot; (Sagalee Chaayinaa:`3Tǐ` ) qaroomina alagaa kan dambalii elektiromaagneetikii fayyadamuun walqunnamsiisu, yaada iftoomina qabuu fi teeknooloojii badhaadhina qabuun asoosama.
+Asoosamni asoosama saayinsii &quot;Qaama Sadii&quot; (Sagalee Chaayinaa: `3Tǐ` ) qaroomina alagaa kan dambalii elektiromaagneetikii fayyadamuun walqunnamsiisu, yaada iftoomina qabuu fi teeknooloojii badhaadhina qabuun asoosama.
 
 Macaafa Qulqulluu·Seera Uumamaa :
 

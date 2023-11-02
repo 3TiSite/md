@@ -1,4 +1,4 @@
-undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl">undefined3Ti.Site ⋅ חשיבה ללא גבולות <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site ⋅ חשיבה ללא גבולות<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, תרגום Markdown + מחולל אתרים סטטי רב שפות.
 
@@ -8,11 +8,11 @@ undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl
 
 יש אנשים שאולי ישאלו, מכיוון שלכל הדפדפנים יש פונקציות תרגום, האם זה מיותר לבצע אינטרנציונל של האתר?
 
-אני רוצה לומר שרק**אתרים שמייצרים תרגומים סטטיים יכולים לתמוך בחיפוש טקסט מלא רב לשוני באתר ובאופטימיזציה למנועי חיפוש** .
+אני רוצה לומר שרק **אתרים שמייצרים תרגומים סטטיים יכולים לתמוך בחיפוש טקסט מלא רב לשוני באתר ובאופטימיזציה למנועי חיפוש** .
 
 ## מבוא
 
-רומן המדע הבדיוני &quot;Three Body&quot; (הגייה בסינית:`3Tǐ` ) מציג תרבות חייזרית שמשתמשת בגלים אלקטרומגנטיים כדי לתקשר, עם חשיבה שקופה וטכנולוגיה משגשגת.
+רומן המדע הבדיוני &quot;Three Body&quot; (הגייה בסינית: `3Tǐ` ) מציג תרבות חייזרית שמשתמשת בגלים אלקטרומגנטיים כדי לתקשר, עם חשיבה שקופה וטכנולוגיה משגשגת.
 
 תנ"ך · בראשית :
 

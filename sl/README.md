@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Razmišljanje brez meja <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Razmišljanje brez meja<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, prevod Markdown + generator statičnih spletnih mest v več jezikih.
 
@@ -8,11 +8,11 @@ Hitro ustvarite mednarodne dokumente in bloge, ki podpirajo [na stotine jezikov]
 
 Nekateri se bodo morda vprašali, ali je internacionalizacija spletnega mesta nepotrebna, ker imajo vsi brskalniki prevajalske funkcije?
 
-Rad bi povedal, da**lahko le spletna mesta, ki ustvarjajo statične prevode, podpirajo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
+Rad bi povedal, da **lahko le spletna mesta, ki ustvarjajo statične prevode, podpirajo večjezično iskanje po celotnem besedilu in optimizacijo iskalnikov** .
 
 ## Uvod
 
-Znanstvenofantastični roman &quot;Three Body&quot; (kitajska izgovorjava:`3Tǐ` ) fikcionalizira tujo civilizacijo, ki za komunikacijo uporablja elektromagnetne valove, s preglednim razmišljanjem in uspešno tehnologijo.
+Znanstvenofantastični roman &quot;Three Body&quot; (kitajska izgovorjava: `3Tǐ` ) fikcionalizira tujo civilizacijo, ki za komunikacijo uporablja elektromagnetne valove, s preglednim razmišljanjem in uspešno tehnologijo.
 
 Sveto pismo · Geneza :
 

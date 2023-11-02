@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Whakaaro Kore Taitapa <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Whakaaro Kore Taitapa<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Whakamaoritanga Markdown + maha-reo generator pae pateko.
 
@@ -8,11 +8,11 @@ Kia tere te hanga tuhinga o te ao me nga rangitaki e tautoko ana [i nga rau reo]
 
 Ka patai pea etahi, i te mea he mahi whakamaoritanga nga kaitirotiro katoa, he koretake ranei te whakaputa i te paetukutuku ki te ao?
 
-E hiahia ana ahau ki te kii ko**nga paetukutuku anake e whakaputa ana i nga whakamaoritanga pateko ka taea te tautoko i te rapu kupu-katoa i roto i te papaanga me te arotautanga miihini rapu** .
+E hiahia ana ahau ki te kii ko **nga paetukutuku anake e whakaputa ana i nga whakamaoritanga pateko ka taea te tautoko i te rapu kupu-katoa i roto i te papaanga me te arotautanga miihini rapu** .
 
 ## Kupu Whakataki
 
-Ko te pakimaero pakimaero &quot;Three Body&quot; (te whakahua reo Hainamana:`3Tǐ` ) he korero pakiwaitara he ao tangata ke e whakamahi ana i nga ngaru hiko ki te whakawhitiwhiti korero, me te whakaaro marama me te hangarau whai hua.
+Ko te pakimaero pakimaero &quot;Three Body&quot; (te whakahua reo Hainamana: `3Tǐ` ) he korero pakiwaitara he ao tangata ke e whakamahi ana i nga ngaru hiko ki te whakawhitiwhiti korero, me te whakaaro marama me te hangarau whai hua.
 
 Paipera · Genesis :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Isiza ⋅ Ukucinga Ngaphandle kwemida <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Isiza ⋅ Ukucinga Ngaphandle kwemida<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 I-3Ti.Site, inguqulelo ye-Markdown + isayithi yokuvelisa yeelwimi ezininzi.
 
@@ -8,11 +8,11 @@ Yakha ngokukhawuleza amaxwebhu aphesheya kunye neeblogi ezixhasa [amakhulu eelwi
 
 Abanye abantu banokubuza, kuba zonke iibhrawuza zinemisebenzi yokuguqulela, ngaba akuyomfuneko ukwenza iwebhusayithi yelizwe jikelele?
 
-Ndingathanda ukuthi**iiwebhusayithi kuphela ezenza uguqulelo olungatshintshiyo ezinokuxhasa uphendlo lweelwimi ezininzi kwindawo yokubhaliweyo okugcweleyo kunye nokuphucula injini yokukhangela** .
+Ndingathanda ukuthi **iiwebhusayithi kuphela ezenza uguqulelo olungatshintshiyo ezinokuxhasa uphendlo lweelwimi ezininzi kwindawo yokubhaliweyo okugcweleyo kunye nokuphucula injini yokukhangela** .
 
 ## Intshayelelo
 
-Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina:`3Tǐ` ) ivelisa impucuko yasemzini esebenzisa amaza ombane ombane ukunxibelelana, nokucinga okuselubala kunye nobuchwephesha obunempumelelo.
+Inoveli yentsomi yenzululwazi &quot;Imizimba emithathu&quot; (iphinyiso lesiTshayina: `3Tǐ` ) ivelisa impucuko yasemzini esebenzisa amaza ombane ombane ukunxibelelana, nokucinga okuselubala kunye nobuchwephesha obunempumelelo.
 
 IBhayibhile · Genesis :
 

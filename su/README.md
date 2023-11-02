@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Situs ⋅ Pamikiran Tanpa Wates <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Situs ⋅ Pamikiran Tanpa Wates<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Tarjamahan Markdown + generator situs statik multi-basa.
 
@@ -8,11 +8,11 @@ Gancang ngawangun dokumén sareng blog internasional anu ngadukung [ratusan basa
 
 Sababaraha urang tiasa naroskeun, sabab sadaya panyungsi ngagaduhan fungsi tarjamahan, naha henteu kedah ngainternasionalkeun halaman wéb?
 
-Abdi hoyong nyebatkeun yén**ngan ukur situs wéb anu ngahasilkeun tarjamahan statik tiasa ngadukung milarian téks lengkep multibasa dina situs sareng optimasi mesin pencari** .
+Abdi hoyong nyebatkeun yén **ngan ukur situs wéb anu ngahasilkeun tarjamahan statik tiasa ngadukung milarian téks lengkep multibasa dina situs sareng optimasi mesin pencari** .
 
 ## Bubuka
 
-Novel fiksi ilmiah &quot;Tilu Awak&quot; (lafal Basa Cina:`3Tǐ` ) ngafiksasi peradaban alien anu ngagunakeun gelombang éléktromagnétik pikeun komunikasi, kalayan pamikiran transparan sareng téknologi makmur.
+Novel fiksi ilmiah &quot;Tilu Awak&quot; (lafal Basa Cina: `3Tǐ` ) ngafiksasi peradaban alien anu ngagunakeun gelombang éléktromagnétik pikeun komunikasi, kalayan pamikiran transparan sareng téknologi makmur.
 
 Alkitab·Kajadian :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Urubuga ⋅ Gutekereza utagira umupaka <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Urubuga ⋅ Gutekereza utagira umupaka<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Urubuga, Ubusobanuro bwa Markdown + imvugo yindimi nyinshi.
 
@@ -8,11 +8,11 @@ Wihutire kubaka inyandiko mpuzamahanga na blog zishyigikira [indimi amagana](htt
 
 Abantu bamwe barashobora kubaza, kubera ko mushakisha zose zifite imikorere yubuhinduzi, ntibikenewe kumenyekanisha urubuga mpuzamahanga?
 
-Ndashaka kuvuga ko**imbuga zonyine zitanga ibisobanuro bihamye zishobora gushyigikira indimi nyinshi kurubuga-rwuzuye-ishakisha ryuzuye hamwe na moteri ishakisha** .
+Ndashaka kuvuga ko **imbuga zonyine zitanga ibisobanuro bihamye zishobora gushyigikira indimi nyinshi kurubuga-rwuzuye-ishakisha ryuzuye hamwe na moteri ishakisha** .
 
 ## Intangiriro
 
-Igitabo gihimbano cya siyansi &quot;Umubiri itatu&quot; (kuvuga Igishinwa:`3Tǐ` ) gihimbano kavukire kavamahanga gakoresha imiyoboro ya elegitoroniki kugira ngo ivugane, hamwe n'ibitekerezo bisobanutse hamwe n'ikoranabuhanga ryateye imbere.
+Igitabo gihimbano cya siyansi &quot;Umubiri itatu&quot; (kuvuga Igishinwa: `3Tǐ` ) gihimbano kavukire kavamahanga gakoresha imiyoboro ya elegitoroniki kugira ngo ivugane, hamwe n'ibitekerezo bisobanutse hamwe n'ikoranabuhanga ryateye imbere.
 
 Bibiliya · Itangiriro :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Myšlení bez hranic <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Myšlení bez hranic<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, překlad Markdown + vícejazyčný generátor statických stránek.
 
@@ -8,11 +8,11 @@ Rychle vytvářejte mezinárodní dokumenty a blogy, které podporují [stovky j
 
 Někteří lidé se mohou ptát, protože všechny prohlížeče mají funkce překladu, je zbytečné internacionalizovat web?
 
-Chtěl bych říci, že**pouze webové stránky, které generují statické překlady, mohou podporovat vícejazyčné fulltextové vyhledávání na webu a optimalizaci pro vyhledávače** .
+Chtěl bych říci, že **pouze webové stránky, které generují statické překlady, mohou podporovat vícejazyčné fulltextové vyhledávání na webu a optimalizaci pro vyhledávače** .
 
 ## Úvod
 
-Sci-fi román „Tři těla“ (čínská výslovnost:`3Tǐ` ) beletrizuje mimozemskou civilizaci, která ke komunikaci používá elektromagnetické vlny, s transparentním myšlením a prosperující technologií.
+Sci-fi román „Tři těla“ (čínská výslovnost: `3Tǐ` ) beletrizuje mimozemskou civilizaci, která ke komunikaci používá elektromagnetické vlny, s transparentním myšlením a prosperující technologií.
 
 Bible·Genesis :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Nsusuwii a Ɛnni Ahye <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Nsusuwii a Ɛnni Ahye<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown nkyerɛase + kasa ahorow pii static site generator.
 
@@ -8,11 +8,11 @@ Ntɛmntɛm yɛ amanaman ntam nkrataa ne blog ahorow a ɛboa [kasa ɔhaha pii](ht
 
 Ebia nnipa binom bebisa sɛ, esiane sɛ browser nyinaa wɔ nkyerɛase dwumadi nti, so ɛho nhia sɛ wɔde wɛbsaet no bɛyɛ amanaman ntam?
 
-Mepɛ sɛ meka sɛ**wɛbsaet ahorow a ɛma nkyerɛase ahorow a ɛnyɛ hwee nkutoo na ebetumi aboa kasa ahorow pii a wɔde hwehwɛ nsɛm nyinaa mu wɔ wɛbsaet no mu ne nhwehwɛmu engine optimization** .
+Mepɛ sɛ meka sɛ **wɛbsaet ahorow a ɛma nkyerɛase ahorow a ɛnyɛ hwee nkutoo na ebetumi aboa kasa ahorow pii a wɔde hwehwɛ nsɛm nyinaa mu wɔ wɛbsaet no mu ne nhwehwɛmu engine optimization** .
 
 ## Nnianimu
 
-Nyansahu mu ayɛsɛm ayɛsɛm &quot;Tree Body&quot; (China kasa mu nsɛmfua din:`3Tǐ` ) yɛ ayɛsɛm a ɛyɛ ahɔho anibuei a ɛde anyinam ahoɔden asorɔkye di dwuma de di nkitaho, a ɛwɔ nsusuwii a ɛda adi pefee ne mfiridwuma a edi yiye.
+Nyansahu mu ayɛsɛm ayɛsɛm &quot;Tree Body&quot; (China kasa mu nsɛmfua din: `3Tǐ` ) yɛ ayɛsɛm a ɛyɛ ahɔho anibuei a ɛde anyinam ahoɔden asorɔkye di dwuma de di nkitaho, a ɛwɔ nsusuwii a ɛda adi pefee ne mfiridwuma a edi yiye.
 
 Bible·Genesis :
 

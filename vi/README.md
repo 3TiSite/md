@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Tư duy không biên giới <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Tư duy không biên giới<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, bản dịch Markdown + trình tạo trang tĩnh đa ngôn ngữ.
 
@@ -8,11 +8,11 @@ Nhanh chóng xây dựng các tài liệu và blog quốc tế hỗ trợ [hàng
 
 Một số người có thể hỏi, vì tất cả các trình duyệt đều có chức năng dịch thuật nên có cần thiết phải quốc tế hóa trang web không?
 
-Tôi muốn nói rằng**chỉ những trang web tạo bản dịch tĩnh mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
+Tôi muốn nói rằng **chỉ những trang web tạo bản dịch tĩnh mới có thể hỗ trợ tìm kiếm toàn văn bản đa ngôn ngữ tại chỗ và tối ưu hóa công cụ tìm kiếm** .
 
 ## Giới Thiệu
 
-Tiểu thuyết khoa học viễn tưởng “Tam Thân” (phát âm tiếng Trung:`3Tǐ` ) hư cấu về một nền văn minh ngoài hành tinh sử dụng sóng điện từ để liên lạc, có tư duy minh bạch và công nghệ thịnh vượng.
+Tiểu thuyết khoa học viễn tưởng “Tam Thân” (phát âm tiếng Trung: `3Tǐ` ) hư cấu về một nền văn minh ngoài hành tinh sử dụng sóng điện từ để liên lạc, có tư duy minh bạch và công nghệ thịnh vượng.
 
 Kinh thánh·Sáng thế ký :
 

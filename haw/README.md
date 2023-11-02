@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Noonoo me ka palena ole <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Noonoo me ka palena ole<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Unuhi ʻo Markdown + mea hoʻoheheʻe kahua paʻa ʻōlelo he nui.
 
@@ -8,11 +8,11 @@ E kūkulu koke i nā palapala honua a me nā blog e kākoʻo ana [i nā haneli m
 
 Nīnau paha kekahi poʻe, no ka mea he mau hana unuhi nā mea huli a pau, ʻaʻole pono anei ka hoʻolaha ʻana i ka pūnaewele puni honua?
 
-Makemake au e ʻōlelo ʻo**nā pūnaewele wale nō e hoʻopuka ana i nā unuhi paʻa e hiki ke kākoʻo i ka ʻimi kikokikona piha a me ka ʻenekini hulina ma nā ʻōlelo he nui** .
+Makemake au e ʻōlelo ʻo **nā pūnaewele wale nō e hoʻopuka ana i nā unuhi paʻa e hiki ke kākoʻo i ka ʻimi kikokikona piha a me ka ʻenekini hulina ma nā ʻōlelo he nui** .
 
 ## Hoʻolauna
 
-ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Kōno ʻEkolu&quot; (ʻōlelo Kina:`3Tǐ` ) he moʻolelo moʻokalaleo e hoʻohana ana i nā nalu electromagnetic e kamaʻilio, me ka noʻonoʻo a me ka ʻenehana holomua.
+ʻO ka moʻolelo moʻokalaleo ʻepekema ʻo &quot;Kōno ʻEkolu&quot; (ʻōlelo Kina: `3Tǐ` ) he moʻolelo moʻokalaleo e hoʻohana ana i nā nalu electromagnetic e kamaʻilio, me ka noʻonoʻo a me ka ʻenehana holomua.
 
 Baibala·Genesis :
 

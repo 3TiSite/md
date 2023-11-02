@@ -1,4 +1,4 @@
-undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl">undefined3Ti.Site ⋅ Thinking without Borders <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between;text-align:right;direction:rtl">3Ti.Site ⋅ Thinking without Borders<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site، مارڪ ڊائون ترجمو + گھڻ-ٻولي جامد سائيٽ جنريٽر.
 
@@ -8,11 +8,11 @@ undefined<h1 style="justify-content:space-between;text-align:right;direction:rtl
 
 ڪجھ ماڻھو پڇي سگھن ٿا، ڇو ته سڀني برائوزرن ۾ ترجمي جا ڪم آھن، ڇا ويب سائيٽ کي بين الاقوامي ڪرڻ ضروري آھي؟
 
-مان اهو چوڻ چاهيان ٿو ته**صرف اهي ويب سائيٽون جيڪي جامد ترجما پيدا ڪن ٿيون، اهي گهڻ لساني ان-سائيٽ مڪمل-ٽيڪسٽ سرچ ۽ سرچ انجڻ جي اصلاح جي مدد ڪري سگهن ٿيون** .
+مان اهو چوڻ چاهيان ٿو ته **صرف اهي ويب سائيٽون جيڪي جامد ترجما پيدا ڪن ٿيون، اهي گهڻ لساني ان-سائيٽ مڪمل-ٽيڪسٽ سرچ ۽ سرچ انجڻ جي اصلاح جي مدد ڪري سگهن ٿيون** .
 
 ## تعارف
 
-سائنس فڪشن ناول ”ٿري باڊي“ (چيني تلفظ:`3Tǐ` ) هڪ اجنبي تهذيب کي افسانوي بڻائي ٿو جيڪا شفاف سوچ ۽ خوشحال ٽيڪنالاجي سان رابطي لاءِ برقي مقناطيسي لهرون استعمال ڪري ٿي.
+سائنس فڪشن ناول ”ٿري باڊي“ (چيني تلفظ: `3Tǐ` ) هڪ اجنبي تهذيب کي افسانوي بڻائي ٿو جيڪا شفاف سوچ ۽ خوشحال ٽيڪنالاجي سان رابطي لاءِ برقي مقناطيسي لهرون استعمال ڪري ٿي.
 
 بائبل · پيدائش :
 

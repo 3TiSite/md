@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Sınır Tanımayan Düşünmek <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Sınır Tanımayan Düşünmek<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown çevirisi + çok dilli statik site oluşturucu.
 
@@ -12,7 +12,7 @@ Bazı kişiler, tüm tarayıcıların çeviri işlevlerine sahip olması nedeniy
 
 ## Giriiş
 
-Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu:`3Tǐ` ), şeffaf düşünce ve müreffeh teknolojiyle iletişim kurmak için elektromanyetik dalgaları kullanan uzaylı bir uygarlığı kurgular.
+Bilim kurgu romanı &quot;Üç Beden&quot; (Çince telaffuzu: `3Tǐ` ), şeffaf düşünce ve müreffeh teknolojiyle iletişim kurmak için elektromanyetik dalgaları kullanan uzaylı bir uygarlığı kurgular.
 
 İncil·Yaratılış :
 

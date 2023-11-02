@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Tunani Ba tare da Iyakoki ba <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Tunani Ba tare da Iyakoki ba<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Fassarar Markdown + janareta a tsaye na harshe da yawa.
 
@@ -8,11 +8,11 @@ Gaggauta gina takardu na duniya da bulogi waɗanda ke tallafawa [ɗaruruwan hars
 
 Wasu mutane na iya tambaya, tunda duk masu bincike suna da ayyukan fassara, shin ba lallai ba ne a mayar da gidan yanar gizon zuwa ƙasashen waje?
 
-Ina so in faɗi cewa**shafukan yanar gizo ne kawai waɗanda ke samar da fassarori masu tsattsauran ra'ayi zasu iya tallafawa binciken cikakken rubutun cikin harsuna da yawa da haɓaka injin bincike** .
+Ina so in faɗi cewa **shafukan yanar gizo ne kawai waɗanda ke samar da fassarori masu tsattsauran ra'ayi zasu iya tallafawa binciken cikakken rubutun cikin harsuna da yawa da haɓaka injin bincike** .
 
 ## Gabatarwa
 
-Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci:`3Tǐ` ) ya ƙirƙira wani baƙon wayewa wanda ke amfani da igiyoyin lantarki don sadarwa, tare da tunani mai gaskiya da fasaha mai wadata.
+Littafin almarar kimiyya mai suna &quot;Jiki Uku&quot; (lafazin Sinanci: `3Tǐ` ) ya ƙirƙira wani baƙon wayewa wanda ke amfani da igiyoyin lantarki don sadarwa, tare da tunani mai gaskiya da fasaha mai wadata.
 
 Littafi Mai Tsarki·Farawa :
 

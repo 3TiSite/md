@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Chegarasiz fikrlash <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Chegarasiz fikrlash<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown tarjimasi + ko'p tilli statik sayt generatori.
 
@@ -8,11 +8,11 @@
 
 Ba'zi odamlar so'rashi mumkin, chunki barcha brauzerlarda tarjima funktsiyalari mavjud, veb-saytni xalqarolashtirish kerak emasmi?
 
-Aytmoqchimanki**, faqat statik tarjimalarni yaratadigan veb-saytlar ko'p tilli sayt ichidagi to'liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo'llab-quvvatlashi mumkin** .
+Aytmoqchimanki **, faqat statik tarjimalarni yaratadigan veb-saytlar ko'p tilli sayt ichidagi to'liq matnli qidiruv va qidiruv tizimini optimallashtirishni qo'llab-quvvatlashi mumkin** .
 
 ## Kirish
 
-“Uch tana” (xitoycha talaffuzi:`3Tǐ` ) ilmiy-fantastik romani shaffof fikrlash va gullab-yashnagan texnologiya bilan aloqa qilish uchun elektromagnit to‘lqinlardan foydalanadigan begona tsivilizatsiyani o‘ylab topadi.
+“Uch tana” (xitoycha talaffuzi: `3Tǐ` ) ilmiy-fantastik romani shaffof fikrlash va gullab-yashnagan texnologiya bilan aloqa qilish uchun elektromagnit to‘lqinlardan foydalanadigan begona tsivilizatsiyani o‘ylab topadi.
 
 Injil · Ibtido :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Iche echiche enweghị oke <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Iche echiche enweghị oke<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, ntụgharị asụsụ Markdown + ihe na-emepụta saịtị static asụsụ ọtụtụ asụsụ.
 
@@ -8,11 +8,11 @@ wuo ngwa ngwa akwụkwọ na blọọgụ mba ụwa na-akwado [ọtụtụ nar�
 
 Ụfọdụ ndị mmadụ nwere ike ịjụ, ebe ọ bụ na ihe nchọgharị niile nwere ọrụ ntụgharị asụsụ, ọ bụ na ọ dịghị mkpa ịmegharị webụsaịtị mba ụwa?
 
-Ọ ga-amasị m ịsị na**ọ bụ naanị webụsaịtị na-emepụta ntụgharị asụsụ kwụ ọtọ nwere ike ịkwado ọchụchọ ederede zuru oke na saịtị ọtụtụ asụsụ yana njikarịcha njin** .
+Ọ ga-amasị m ịsị na **ọ bụ naanị webụsaịtị na-emepụta ntụgharị asụsụ kwụ ọtọ nwere ike ịkwado ọchụchọ ederede zuru oke na saịtị ọtụtụ asụsụ yana njikarịcha njin** .
 
 ## Okwu Mmalite
 
-Akwụkwọ akụkọ sayensị sayensị &quot;Ahụ atọ&quot; (pronunciation Chinese:`3Tǐ` ) na-akọwapụta mmepeanya nke mba ọzọ nke na-eji ebili mmiri electromagnetic na-ekwurịta okwu, na echiche doro anya na nkà na ụzụ bara ụba.
+Akwụkwọ akụkọ sayensị sayensị &quot;Ahụ atọ&quot; (pronunciation Chinese: `3Tǐ` ) na-akọwapụta mmepeanya nke mba ọzọ nke na-eji ebili mmiri electromagnetic na-ekwurịta okwu, na echiche doro anya na nkà na ụzụ bara ụba.
 
 Bible·Jenesis :
 

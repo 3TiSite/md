@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Pag-iisip nang Walang Hangganan <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Pag-iisip nang Walang Hangganan<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown translation + multi-language static site generator.
 
@@ -8,11 +8,11 @@ Mabilis na bumuo ng mga internasyonal na dokumento at blog na sumusuporta [sa da
 
 Maaaring magtanong ang ilang tao, dahil ang lahat ng mga browser ay may mga function ng pagsasalin, hindi ba kailangang i-internationalize ang website?
 
-Gusto kong sabihin na**ang mga website lamang na bumubuo ng mga static na pagsasalin ang makakasuporta sa multilinggwal na in-site na full-text na paghahanap at search engine optimization** .
+Gusto kong sabihin na **ang mga website lamang na bumubuo ng mga static na pagsasalin ang makakasuporta sa multilinggwal na in-site na full-text na paghahanap at pag-optimize ng search engine** .
 
 ## Panimula
 
-Ang nobelang science fiction na &quot;Tatlong Katawan&quot; (pagbigkas ng Tsino:`3Tǐ` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na gumagamit ng mga electromagnetic wave upang makipag-usap, na may malinaw na pag-iisip at maunlad na teknolohiya.
+Ang nobelang science fiction na &quot;Tatlong Katawan&quot; (pagbigkas ng Tsino: `3Tǐ` ) ay gawa-gawa ang isang dayuhan na sibilisasyon na gumagamit ng mga electromagnetic wave upang makipag-usap, na may malinaw na pag-iisip at maunlad na teknolohiya.
 
 Bibliya·Genesis :
 

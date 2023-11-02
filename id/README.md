@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Situs ⋅ Berpikir Tanpa Batas <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Berpikir Tanpa Batas<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, terjemahan penurunan harga + generator situs statis multi-bahasa.
 
@@ -8,11 +8,11 @@ Buat dokumen dan blog internasional dengan cepat yang mendukung [ratusan bahasa]
 
 Beberapa orang mungkin bertanya, karena semua browser memiliki fungsi terjemahan, apakah situs web tidak perlu diinternasionalkan?
 
-Saya ingin mengatakan bahwa**hanya situs web yang menghasilkan terjemahan statis yang dapat mendukung pencarian teks lengkap dalam situs multibahasa dan optimasi mesin pencari** .
+Saya ingin mengatakan bahwa **hanya situs web yang menghasilkan terjemahan statis yang dapat mendukung pencarian teks lengkap dalam situs multibahasa dan optimasi mesin pencari** .
 
 ## Perkenalan
 
-Novel fiksi ilmiah &quot;Tiga Tubuh&quot; (pengucapan Cina:`3Tǐ` ) mengarang fiksi peradaban alien yang menggunakan gelombang elektromagnetik untuk berkomunikasi, dengan pemikiran transparan dan teknologi yang makmur.
+Novel fiksi ilmiah &quot;Tiga Tubuh&quot; (pengucapan Cina: `3Tǐ` ) mengarang fiksi peradaban alien yang menggunakan gelombang elektromagnetik untuk berkomunikasi, dengan pemikiran transparan dan teknologi yang makmur.
 
 Alkitab·Kejadian :
 

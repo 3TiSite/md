@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Situs ⋅ Mikir Tanpa Wates <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Situs ⋅ Mikir Tanpa Wates<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, terjemahan Markdown + generator situs statis multi-basa.
 
@@ -8,11 +8,11 @@ Gawe dokumen lan blog internasional kanthi cepet sing ndhukung [atusan basa](htt
 
 Sawetara wong bisa takon, amarga kabeh browser duwe fungsi terjemahan, apa ora perlu kanggo internasionalisasi situs web?
 
-Aku pengin ngomong yen**mung situs web sing ngasilake terjemahan statis sing bisa ndhukung telusuran teks lengkap ing situs multibasa lan optimasi mesin telusur** .
+Aku pengin ngomong yen **mung situs web sing ngasilake terjemahan statis sing bisa ndhukung telusuran teks lengkap ing situs multibasa lan optimasi mesin telusur** .
 
 ## Pambuka
 
-Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Cina:`3Tǐ` ) fiksi peradaban alien sing nggunakake gelombang elektromagnetik kanggo komunikasi, kanthi pamikiran transparan lan teknologi sing makmur.
+Novel fiksi ilmiah &quot;Tiga Badan&quot; (lafal Cina: `3Tǐ` ) fiksi peradaban alien sing nggunakake gelombang elektromagnetik kanggo komunikasi, kanthi pamikiran transparan lan teknologi sing makmur.
 
 Kitab Suci · Purwaning Dumadi :
 

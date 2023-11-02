@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Ekifo ⋅ Okulowooza Nga Tolina Nsalo <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Ekifo ⋅ Okulowooza Nga Tolina Nsalo<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown okuvvuunula + ennimi nnyingi static site generator.
 
@@ -8,11 +8,11 @@ Zimba mangu ebiwandiiko by'ensi yonna ne blogs eziwagira [ebikumi n'ebikumi by'e
 
 Abantu abamu bayinza okwebuuza nti, okuva bwe kiri nti browser zonna zirina emirimu gy’okuvvuunula, tekyetaagisa kufuula mukutu guno ogw’ensi yonna?
 
-Njagala okugamba nti**emikutu gyokka egikola enkyusa ezitakyukakyuka gye gisobola okuwagira okunoonya ebiwandiiko ebijjuvu mu mikutu egy’ennimi nnyingi n’okulongoosa enkola y’okunoonya** .
+Njagala okugamba nti **emikutu gyokka egikola enkyusa ezitakyukakyuka gye gisobola okuwagira okunoonya ebiwandiiko ebijjuvu mu mikutu egy’ennimi nnyingi n’okulongoosa enkola y’okunoonya** .
 
 ## Okwanjula
 
-Ekitabo kya ssaayansi &quot;Three Body&quot; (enjatula y'Oluchina:`3Tǐ` ) kifuula embuga y'abagwira ekozesa amayengo g'amasannyalaze okuwuliziganya, n'endowooza entangaavu ne tekinologiya akulaakulana.
+Ekitabo kya ssaayansi &quot;Three Body&quot; (enjatula y'Oluchina: `3Tǐ` ) kifuula embuga y'abagwira ekozesa amayengo g'amasannyalaze okuwuliziganya, n'endowooza entangaavu ne tekinologiya akulaakulana.
 
 Baibuli·Olubereberye :
 

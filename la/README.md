@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site cogitans sine finibus <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site cogitans sine finibus<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown translatio + multi-lingua static situs generantis.
 
@@ -8,11 +8,11 @@ Celeriter aedifica documenta internationalia et diaria quae [centena linguarum](
 
 Nonnulli rogant, cum omnes navigatores functiones translationis habeant, necessene est interretialem paginam internationalem facere?
 
-Vellem dicere**tantum paginas quae static translationes generare possunt, multilinguale in-site in-site quaerere et quaerere machinam optimizationem plenam-textu sustinere** .
+Vellem dicere **tantum paginas quae static translationes generare possunt, multilinguale in-site in-site quaerere et quaerere machinam optimizationem plenam-textu sustinere** .
 
 ## Introductio
 
-Scientia ficta nova &quot;Trium Corpus&quot; (pronuntiatio Sinica:`3Tǐ` ) ficta civilizationem alienam, quae electromagneticis fluctibus utitur ad communicandum, cum perspicuis cogitationibus et technicis prosperis.
+Scientia ficta nova &quot;Trium Corpus&quot; (pronuntiatio Sinica: `3Tǐ` ) ficta civilizationem alienam, quae electromagneticis fluctibus utitur ad communicandum, cum perspicuis cogitationibus et technicis prosperis.
 
 Bible·Genesis :
 

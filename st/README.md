@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ho Nahana Ntle le Meeli <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ho Nahana Ntle le Meeli<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, phetolelo ea Markdown + jenereithara ea sebaka se sa fetoleng boemo ba lipuo tse ngata.
 
@@ -8,11 +8,11 @@ Ka potlako theha litokomane tsa machaba le li-blog tse tšehetsang [lipuo tse ma
 
 Batho ba bang ba ka 'na ba botsa, kaha libatli tsohle li na le mesebetsi ea ho fetolela, na ha ho hlokahale ho etsa sebaka sa marang-rang?
 
-Ke rata ho bolela hore**ke libaka tsa marang-rang feela tse hlahisang liphetolelo tse sa fetoheng tse ka tšehetsang patlo ea mongolo o felletseng sebakeng sa marang-rang le ho ntlafatsa lisebelisoa tsa ho batla** .
+Ke rata ho bolela hore **ke libaka tsa marang-rang feela tse hlahisang liphetolelo tse sa fetoheng tse ka tšehetsang patlo ea mongolo o felletseng sebakeng sa marang-rang le ho ntlafatsa lisebelisoa tsa ho batla** .
 
 ## Selelekela
 
-Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena:`3Tǐ` ) e iqapetse tsoelo-pele esele e sebelisang maqhubu a motlakase ho buisana, ka monahano o pepeneneng le theknoloji e atlehileng.
+Pale ea tšōmo ea mahlale &quot;Mele e Meraro&quot; (polelo ea Sechaena: `3Tǐ` ) e iqapetse tsoelo-pele esele e sebelisang maqhubu a motlakase ho buisana, ka monahano o pepeneneng le theknoloji e atlehileng.
 
 Bibele·Genese :
 

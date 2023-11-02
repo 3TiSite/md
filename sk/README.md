@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Myslenie bez hraníc <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Myslenie bez hraníc<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, preklad Markdown + viacjazyčný generátor statických stránok.
 
@@ -8,11 +8,11 @@ Rýchlo vytvárajte medzinárodné dokumenty a blogy, ktoré podporujú [stovky 
 
 Niektorí ľudia sa môžu pýtať, keďže všetky prehliadače majú funkcie prekladu, je zbytočné internacionalizovať webovú stránku?
 
-Chcel by som povedať, že**iba webové stránky, ktoré generujú statické preklady, môžu podporovať viacjazyčné fulltextové vyhľadávanie a optimalizáciu pre vyhľadávače** .
+Chcel by som povedať, že **iba webové stránky, ktoré generujú statické preklady, môžu podporovať viacjazyčné fulltextové vyhľadávanie a optimalizáciu pre vyhľadávače** .
 
 ## Úvod
 
-Sci-fi román „Tri telá“ (čínska výslovnosť:`3Tǐ` ) beletrizuje mimozemskú civilizáciu, ktorá využíva elektromagnetické vlny na komunikáciu, s transparentným myslením a prosperujúcou technológiou.
+Sci-fi román „Tri telá“ (čínska výslovnosť: `3Tǐ` ) beletrizuje mimozemskú civilizáciu, ktorá využíva elektromagnetické vlny na komunikáciu, s transparentným myslením a prosperujúcou technológiou.
 
 Biblia · Genesis :
 

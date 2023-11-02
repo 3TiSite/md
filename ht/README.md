@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Panse San Fwontyè <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Panse San Fwontyè<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, tradiksyon Markdown + dèlko sit estatik milti-lang.
 
@@ -8,11 +8,11 @@ Byen vit bati dokiman entènasyonal ak blog ki sipòte [plizyè santèn lang](ht
 
 Gen kèk moun ki ka mande, piske tout navigatè yo gen fonksyon tradiksyon, èske li pa nesesè pou entènasyonalize sit entènèt la?
 
-Mwen ta renmen di ke**sit entènèt sèlman ki jenere tradiksyon estatik ka sipòte rechèch ak tèks konplè sou sit plizyè lang ak optimize motè rechèch** .
+Mwen ta renmen di ke **sit entènèt sèlman ki jenere tradiksyon estatik ka sipòte rechèch ak tèks konplè sou sit plizyè lang ak optimize motè rechèch** .
 
 ## Entwodiksyon
 
-Roman syans fiksyon &quot;Three Body&quot; (pwononsyasyon Chinwa:`3Tǐ` ) fiksyonalize yon sivilizasyon etranje ki itilize onn elektwomayetik pou kominike, ak panse transparan ak teknoloji pwospere.
+Roman syans fiksyon &quot;Three Body&quot; (pwononsyasyon Chinwa: `3Tǐ` ) fiksyonalize yon sivilizasyon etranje ki itilize onn elektwomayetik pou kominike, ak panse transparan ak teknoloji pwospere.
 
 Labib·Jenèz :
 

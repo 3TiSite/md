@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensendu Senza Frontiere <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensendu Senza Frontiere<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, traduzzione Markdown + generatore di situ staticu multilingua.
 
@@ -8,11 +8,11 @@ Custruite rapidamente documenti è blog internaziunali chì supportanu [centinai
 
 Qualchidunu pò dumandà, postu chì tutti i navigatori anu funzioni di traduzzione, ùn hè micca necessariu d'internazionalizà u situ web?
 
-Vogliu dì chì**solu i siti web chì generanu traduzzioni statiche ponu supportà a ricerca multilingue in u situ full-text è l'optimizazione di u mutore di ricerca** .
+Vogliu dì chì **solu i siti web chì generanu traduzzioni statiche ponu supportà a ricerca multilingue in u situ full-text è l'optimizazione di u mutore di ricerca** .
 
 ## Introduzione
 
-U rumanzu di fantascienza &quot;Three Body&quot; (pronuncia chinesa:`3Tǐ` ) fictionalizes una civilisazione straniera chì usa onde elettromagnetiche per cumunicà, cù un pensamentu trasparente è una tecnulugia pruspera.
+U rumanzu di fantascienza &quot;Three Body&quot; (pronuncia chinesa: `3Tǐ` ) fictionalizes una civilisazione straniera chì usa onde elettromagnetiche per cumunicà, cù un pensamentu trasparente è una tecnulugia pruspera.
 
 Bibbia · Genesi :
 

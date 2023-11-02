@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensamiento Sin Fronteras <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Pensamiento Sin Fronteras<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown ñembohasa + generador sitio estático heta ñe’ẽ rehegua.
 
@@ -8,11 +8,11 @@ Pya’e emopu’ã kuatia ha blog internacional oipytyvõva [hetaiterei ñe’�
 
 Oĩ tapicha ikatu oporandúva, opaite navegador oguerekógui función de traducción, natekotevẽipa oñeinternacionalisa pe página web?
 
-Aipota**ha’e umi ñanduti renda omoheñóiva ñe’ẽasa estática añoite ikatuha oipytyvõ jeheka heta ñe’ẽme jeporeka jehaipyre pukukue ha motor de búsqueda jeheka heta ñe’ẽme** .
+Aipota **ha’e umi ñanduti renda omoheñóiva ñe’ẽasa estática añoite ikatuha oipytyvõ jeheka heta ñe’ẽme jeporeka jehaipyre pukukue ha motor de búsqueda jeheka heta ñe’ẽme** .
 
 ## Moñepyrũmby
 
-Novela de ciencia ficción &quot;Mbohapy Tete&quot; (pronunciación chino:`3Tǐ` ) oficciona peteî civilización extraterrestre oiporúva onda electromagnética oñomongeta haguã, orekóva pensamiento transparente ha tecnología próspera.
+Novela de ciencia ficción &quot;Mbohapy Tete&quot; (pronunciación chino: `3Tǐ` ) oficciona peteî civilización extraterrestre oiporúva onda electromagnética oñomongeta haguã, orekóva pensamiento transparente ha tecnología próspera.
 
 Biblia·Génesis :
 

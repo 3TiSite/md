@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Panagpanunot nga Awan Beddeng <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Panagpanunot nga Awan Beddeng<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown a panagipatarus + adu a pagsasao nga estatiko a site generator.
 
@@ -8,11 +8,11 @@ Napartak a mangbangon kadagiti internasional a dokumento ken blog a mangsuporta 
 
 Mabalin nga isaludsod ti dadduma a tattao, yantangay amin a browser ket addaan kadagiti panagandar ti panagipatarus, saan kadi a kasapulan nga internasionalisaen ti website?
 
-Kayatko nga ibaga a**dagiti laeng website a mangpataud kadagiti estatiko a patarus ti makasuporta iti multilingual in-site full-text search ken search engine optimization** .
+Kayatko nga ibaga a **dagiti laeng website a mangpataud kadagiti estatiko a patarus ti makasuporta iti multilingual in-site full-text search ken search engine optimization** .
 
 ## Pauna
 
-Ti nobela ti siensia a piksion a &quot;Tallo a Bagi&quot; (Insik a panagibalikas:`3Tǐ` ) ket piksionario ti maysa a ganggannaet a sibilisasion nga agus-usar kadagiti elektromagnetiko nga allon tapno makikomunikar, nga addaan iti nalawag a panagpampanunot ken narang-ay a teknolohia.
+Ti nobela ti siensia a piksion a &quot;Tallo a Bagi&quot; (Insik a panagibalikas: `3Tǐ` ) ket piksionario ti maysa a ganggannaet a sibilisasion nga agus-usar kadagiti elektromagnetiko nga allon tapno makikomunikar, nga addaan iti nalawag a panagpampanunot ken narang-ay a teknolohia.
 
 Biblia·Genesis :
 

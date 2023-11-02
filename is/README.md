@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Að hugsa án landamæra <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Að hugsa án landamæra<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown þýðing + multi-tungumál truflanir síða rafall.
 
@@ -8,11 +8,11 @@ Byggðu fljótt alþjóðleg skjöl og blogg sem styðja [hundruð tungumála](h
 
 Sumir kunna að spyrja, þar sem allir vafrar hafa þýðingaraðgerðir, er óþarfi að alþjóðavæða vefsíðuna?
 
-Ég vil segja að**aðeins vefsíður sem búa til kyrrstæðar þýðingar geta stutt fjöltyngda heildartextaleit á staðnum og leitarvélabestun** .
+Ég vil segja að **aðeins vefsíður sem búa til kyrrstæðar þýðingar geta stutt fjöltyngda heildartextaleit á staðnum og leitarvélabestun** .
 
 ## Kynning
 
-Vísindaskáldsagan „Three Body“ (kínverskur framburður:`3Tǐ` ) skáldar upp framandi siðmenningu sem notar rafsegulbylgjur til að hafa samskipti, með gagnsærri hugsun og velmegandi tækni.
+Vísindaskáldsagan „Three Body“ (kínverskur framburður: `3Tǐ` ) skáldar upp framandi siðmenningu sem notar rafsegulbylgjur til að hafa samskipti, með gagnsærri hugsun og velmegandi tækni.
 
 Biblían · 1. Mósebók :
 

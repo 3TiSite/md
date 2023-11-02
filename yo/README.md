@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Lerongba Laisi Aala <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Lerongba Laisi Aala<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Itumọ Markdown + olupilẹṣẹ aaye aimi ede pupọ.
 
@@ -8,11 +8,11 @@ Ni kiakia kọ awọn iwe aṣẹ ilu okeere ati awọn bulọọgi ti o ṣe at
 
 Diẹ ninu awọn eniyan le beere, niwọn igba ti gbogbo awọn aṣawakiri ni awọn iṣẹ itumọ, ṣe ko ṣe pataki lati ṣe kariaye si oju opo wẹẹbu naa?
 
-Emi yoo fẹ lati sọ pe**awọn oju opo wẹẹbu nikan ti o ṣe agbekalẹ awọn itumọ aimi le ṣe atilẹyin wiwa ọrọ ni kikun ni aaye pupọ ati iṣapeye ẹrọ wiwa** .
+Emi yoo fẹ lati sọ pe **awọn oju opo wẹẹbu nikan ti o ṣe agbekalẹ awọn itumọ aimi le ṣe atilẹyin wiwa ọrọ ni kikun ni aaye pupọ ati iṣapeye ẹrọ wiwa** .
 
 ## Ifaara
 
-Iwe itan itan-akọọlẹ imọ-jinlẹ &quot;Ara Mẹta&quot; ( pronunciation Kannada:`3Tǐ` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o nlo awọn igbi itanna lati ṣe ibaraẹnisọrọ, pẹlu ironu ti o han gbangba ati imọ-ẹrọ to ni ilọsiwaju.
+Iwe itan itan-akọọlẹ imọ-jinlẹ &quot;Ara Mẹta&quot; ( pronunciation Kannada: `3Tǐ` ) ṣe itanjẹ itanjẹ ọlaju ajeji ti o nlo awọn igbi itanna lati ṣe ibaraẹnisọrọ, pẹlu ironu ti o han gbangba ati imọ-ẹrọ to ni ilọsiwaju.
 
 Bibeli·Genesisi :
 

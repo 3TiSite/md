@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Go Nagana Ntle le Mellwane <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Go Nagana Ntle le Mellwane<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Phetolelo ya Markdown + jenereithara ya sebaka sa go se fetoge sa maleme a mantši.
 
@@ -8,11 +8,11 @@ Ka pela aga ditokomane tša boditšhabatšhaba le di-blog tšeo di thekgago [mal
 
 Batho ba bangwe ba ka botšiša gore, ka ge diphensele ka moka di e-na le mešomo ya go fetolela, na ga go nyakege go dira gore wepesaete ye e be ya boditšhabatšhaba?
 
-Ke rata go bolela gore**ke feela diwepesaete tšeo di tšweletšago diphetolelo tše di sa fetogego tšeo di ka thekgago go nyaka mongwalo o tletšego ka maleme a mantši ka gare ga lefelo le go dira gore entšene ya go nyaka e šome gabotse** .
+Ke rata go bolela gore **ke feela diwepesaete tšeo di tšweletšago diphetolelo tše di sa fetogego tšeo di ka thekgago go nyaka mongwalo o tletšego ka maleme a mantši ka gare ga lefelo le go dira gore entšene ya go nyaka e šome gabotse** .
 
 ## Matseno
 
-Padi ya saense ya boikgopolelo ya &quot;Memele ye Meraro&quot; (mmiletšo wa Setšhaena:`3Tǐ` ) e itlhametše tlhabologo ya moeng yeo e šomišago maphoto a mohlagase wa makenete go boledišana, ka go nagana ka pepeneneng le theknolotši ye e atlegilego.
+Padi ya saense ya boikgopolelo ya &quot;Memele ye Meraro&quot; (mmiletšo wa Setšhaena: `3Tǐ` ) e itlhametše tlhabologo ya moeng yeo e šomišago maphoto a mohlagase wa makenete go boledišana, ka go nagana ka pepeneneng le theknolotši ye e atlegilego.
 
 Beibele·Genesi :
 

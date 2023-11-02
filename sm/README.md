@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Mafaufau e Aunoa ma Tuaoi <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Mafaufau e Aunoa ma Tuaoi<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Fa'aliliuga Fa'ailoga + fa'aputuga nofoaga fa'atutusa e tele gagana.
 
@@ -8,11 +8,11 @@ Fausia vave pepa faʻavaomalo ma blogs e lagolagoina [le faitau selau o gagana](
 
 Atonu e fesili nisi tagata, talu ai o tagata suʻesuʻe uma e iai galuega faʻaliliu, e le manaʻomia ea le faʻavaomaloina o le upega tafaʻilagi?
 
-Ou te fia fai atu**e na'o upegatafa'ilagi e fa'atupu fa'aliliuga fa'amautu e mafai ona lagolagoina le tele o gagana i totonu o le 'upega tafa'ilagi su'esu'ega atoa ma su'esu'ega masini su'esu'e** .
+Ou te fia fai atu **e na'o upegatafa'ilagi e fa'atupu fa'aliliuga fa'amautu e mafai ona lagolagoina le tele o gagana i totonu o le 'upega tafa'ilagi su'esu'ega atoa ma su'esu'ega masini su'esu'e** .
 
 ## Folasaga
 
-O le tala fa'asaienisi tala fa'asolopito &quot;Three Body&quot; (Fa'aSaina fa'auiga:`3Tǐ` ) fa'ata'otoina se fa'atagata ese o lo'o fa'aogaina galu eletise e feso'ota'i ai, ma mafaufauga manino ma tekinolosi manuia.
+O le tala fa'asaienisi tala fa'asolopito &quot;Three Body&quot; (Fa'aSaina fa'auiga: `3Tǐ` ) fa'ata'otoina se fa'atagata ese o lo'o fa'aogaina galu eletise e feso'ota'i ai, ma mafaufauga manino ma tekinolosi manuia.
 
 Tusi Paia·Kenese :
 

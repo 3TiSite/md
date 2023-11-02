@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ouni Grenzen denken <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ouni Grenzen denken<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown Iwwersetzung + Multi-Sprooch statesch Site Generator.
 
@@ -8,11 +8,11 @@ Baut séier international Dokumenter a Blogs déi [Honnerte vu Sproochen](https:
 
 E puer Leit kënne froen, well all Browser Iwwersetzungsfunktiounen hunn, ass et onnéideg fir d'Websäit ze internationaliséieren?
 
-Ech géif gären soen datt**nëmmen Websäiten déi statesch Iwwersetzunge generéiere kënnen eng méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
+Ech géif gären soen datt **nëmmen Websäiten déi statesch Iwwersetzunge generéiere kënnen eng méisproocheg In-Site Volltext Sich a Sichmotoroptimiséierung ënnerstëtzen** .
 
 ## Aféierung
 
-De Science Fiction Roman &quot;Three Body&quot; (Chinesesch Aussprooch:`3Tǐ` ) fictionaliséiert eng alien Zivilisatioun déi elektromagnetesch Wellen benotzt fir ze kommunizéieren, mat transparenten Denken a räicher Technologie.
+De Science Fiction Roman &quot;Three Body&quot; (Chinesesch Aussprooch: `3Tǐ` ) fictionaliséiert eng alien Zivilisatioun déi elektromagnetesch Wellen benotzt fir ze kommunizéieren, mat transparenten Denken a räicher Technologie.
 
 Bibel · Genesis :
 

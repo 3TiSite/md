@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Sitio ⋅ Pensando sen fronteiras <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Sitio ⋅ Pensando sen fronteiras<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, tradución Markdown + xerador de sitios estáticos multilingüe.
 
@@ -8,11 +8,11 @@ Crea rapidamente documentos e blogs internacionais que admitan [centos de idioma
 
 Algunhas persoas poden preguntar, xa que todos os navegadores teñen funcións de tradución, é innecesario internacionalizar o sitio web?
 
-Gustaríame dicir que**só os sitios web que xeran traducións estáticas poden admitir a busca multilingüe de texto completo no sitio e a optimización dos motores de busca** .
+Gustaríame dicir que **só os sitios web que xeran traducións estáticas poden admitir a busca multilingüe de texto completo no sitio e a optimización dos motores de busca** .
 
 ## Introdución
 
-A novela de ciencia ficción &quot;Three Body&quot; (pronuncia chinesa:`3Tǐ` ) ficciona unha civilización alieníxena que usa ondas electromagnéticas para comunicarse, cun pensamento transparente e tecnoloxía próspera.
+A novela de ciencia ficción &quot;Three Body&quot; (pronuncia chinesa: `3Tǐ` ) ficciona unha civilización alieníxena que usa ondas electromagnéticas para comunicarse, cun pensamento transparente e tecnoloxía próspera.
 
 Biblia·Xénese :
 

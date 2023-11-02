@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Xav Tsis Muaj Ciam Teb <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Xav Tsis Muaj Ciam Teb<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown txhais lus + ntau hom lus static site generator.
 
@@ -8,11 +8,11 @@ Ceev nrooj tsim cov ntaub ntawv thoob ntiaj teb thiab blogs uas txhawb [ntau pua
 
 Qee tus neeg yuav nug, vim tias txhua tus browsers muaj cov haujlwm txhais lus, nws puas tsim nyog rau kev nthuav tawm lub vev xaib?
 
-Kuv xav hais tias**tsuas yog cov vev xaib uas tsim cov kev txhais lus zoo li qub tuaj yeem txhawb nqa ntau hom lus hauv qhov chaw tshawb nrhiav thiab tshawb xyuas lub cav kom zoo** .
+Kuv xav hais tias **tsuas yog cov vev xaib uas tsim cov kev txhais lus zoo li qub tuaj yeem txhawb nqa ntau hom lus hauv qhov chaw tshawb nrhiav thiab tshawb xyuas lub cav kom zoo** .
 
 ## Taw Qhia
 
-Cov ntawv tseeb tshiab &quot;Peb Lub Cev&quot; (Suav hais:`3Tǐ` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas siv electromagnetic nthwv dej los sib txuas lus, nrog pob tshab kev xav thiab kev vam meej technology.
+Cov ntawv tseeb tshiab &quot;Peb Lub Cev&quot; (Suav hais: `3Tǐ` ) fictionalizes ib tug neeg txawv teb chaws kev vam meej uas siv electromagnetic nthwv dej los sib txuas lus, nrog pob tshab kev xav thiab kev vam meej technology.
 
 Bible · Chiv Keeb :
 

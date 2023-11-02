@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Thinking Without Borders<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, përkthim Markdown + gjenerator i faqeve statike shumëgjuhëshe.
 
@@ -8,11 +8,11 @@ Ndërtoni me shpejtësi dokumente dhe blogje ndërkombëtare që mbështesin [qi
 
 Disa njerëz mund të pyesin, pasi të gjithë shfletuesit kanë funksione përkthimi, a është e panevojshme ndërkombëtarizimi i faqes së internetit?
 
-Unë do të doja të them se**vetëm faqet e internetit që gjenerojnë përkthime statike mund të mbështesin kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorit të kërkimit** .
+Unë do të doja të them se **vetëm faqet e internetit që gjenerojnë përkthime statike mund të mbështesin kërkimin me tekst të plotë në faqe shumëgjuhëshe dhe optimizimin e motorit të kërkimit** .
 
 ## Prezantimi
 
-Romani fantastiko-shkencor &quot;Three Body&quot; (shqiptimi kinez:`3Tǐ` ) fiksionalizon një qytetërim alien që përdor valët elektromagnetike për të komunikuar, me të menduarit transparent dhe teknologjinë e begatë.
+Romani fantastiko-shkencor &quot;Three Body&quot; (shqiptimi kinez: `3Tǐ` ) fiksionalizon një qytetërim alien që përdor valët elektromagnetike për të komunikuar, me të menduarit transparent dhe teknologjinë e begatë.
 
 Bibla · Zanafilla :
 

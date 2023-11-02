@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Kuganiza Popanda Malire <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Kuganiza Popanda Malire<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown translation + multilanguage static site site jenereta.
 
@@ -8,11 +8,11 @@ Pangani mwachangu zikalata zapadziko lonse lapansi ndi mabulogu omwe amathandizi
 
 Anthu ena angafunse, popeza asakatuli onse ali ndi ntchito zomasulira, kodi sikofunikira kuyika webusayiti padziko lonse lapansi?
 
-Ndikufuna kunena kuti**mawebusayiti okhawo omwe amamasulira mawu osasunthika atha kuthandizira kusaka ndikusaka ndikusaka bwino m'zinenero zambiri** .
+Ndikufuna kunena kuti **mawebusayiti okhawo omwe amamasulira mawu osasunthika atha kuthandizira kusaka ndikusaka ndikusaka bwino m'zinenero zambiri** .
 
 ## Mawu Oyamba
 
-Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China:`3Tǐ` ) amapeka chitukuko chachilendo chomwe chimagwiritsa ntchito mafunde amagetsi kuti alankhule, ndi malingaliro owonekera komanso ukadaulo wotukuka.
+Buku lopeka la sayansi &quot;Matupi Atatu&quot; (matchulidwe achi China: `3Tǐ` ) amapeka chitukuko chachilendo chomwe chimagwiritsa ntchito mafunde amagetsi kuti alankhule, ndi malingaliro owonekera komanso ukadaulo wotukuka.
 
 Baibulo·Genesis :
 

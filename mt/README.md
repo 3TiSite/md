@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Sit ⋅ Ħsieb Mingħajr Fruntieri <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Sit ⋅ Ħsieb Mingħajr Fruntieri<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, traduzzjoni Markdown + ġeneratur ta 'sit statiku b'ħafna lingwi.
 
@@ -8,11 +8,11 @@ Ibni malajr dokumenti u blogs internazzjonali li jappoġġjaw [mijiet ta’ ling
 
 Xi nies jistgħu jistaqsu, peress li l-browsers kollha għandhom funzjonijiet ta' traduzzjoni, mhuwiex meħtieġ li tiġi internazzjonalizzata l-websajt?
 
-Nixtieq ngħid li**huma biss il-websajts li jiġġeneraw traduzzjonijiet statiċi li jistgħu jappoġġaw it-tfittxija multilingwi fuq il-post bit-test sħiħ u l-ottimizzazzjoni tal-magni tat-tiftix** .
+Nixtieq ngħid li **huma biss il-websajts li jiġġeneraw traduzzjonijiet statiċi li jistgħu jappoġġaw it-tfittxija multilingwi fuq il-post bit-test sħiħ u l-ottimizzazzjoni tal-magni tat-tiftix** .
 
 ## Introduzzjoni
 
-Ir-rumanz tal-fantaxjenza &quot;Three Body&quot; (pronunzja Ċiniża:`3Tǐ` ) jimbotta ċiviltà aljena li tuża mewġ elettromanjetiku biex tikkomunika, b'ħsieb trasparenti u teknoloġija prospera.
+Ir-rumanz tal-fantaxjenza &quot;Three Body&quot; (pronunzja Ċiniża: `3Tǐ` ) jimbotta ċiviltà aljena li tuża mewġ elettromanjetiku biex tikkomunika, b'ħsieb trasparenti u teknoloġija prospera.
 
 Bibbja·Ġenesi :
 

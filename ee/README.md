@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Nyatakakadzraɖoƒe ⋅ Tamebubu Liƒo Manɔmee <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Nyatakakadzraɖoƒe ⋅ Tamebubu Liƒo Manɔmee<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown gɔmeɖeɖe + gbegbɔgblɔ geɖe ƒe static site generator.
 
@@ -8,11 +8,11 @@ Tu dukɔwo dome nuŋlɔɖiwo kple blog siwo doa alɔ [gbegbɔgblɔ alafa geɖe](
 
 Ame aɖewo abia be esi gbegɔmeɖeɖedɔwo le web-browserwo katã si ta la, ɖe mehiã be woatsɔ nyatakakadzraɖoƒea awɔ dukɔwo domee oa?
 
-Madi be magblɔ be**nyatakakadzraɖoƒe siwo wɔa gbegɔmeɖeɖe siwo mewɔa tɔtrɔ o koe ate ŋu ado alɔ gbegbɔgblɔ geɖe me nyawo didi le nyatakakadzraɖoƒea kple nyatakakawo didi ƒe mɔ̃wo ƒe nyonyome** .
+Madi be magblɔ be **nyatakakadzraɖoƒe siwo wɔa gbegɔmeɖeɖe siwo mewɔa tɔtrɔ o koe ate ŋu ado alɔ gbegbɔgblɔ geɖe me nyawo didi le nyatakakadzraɖoƒea kple nyatakakawo didi ƒe mɔ̃wo ƒe nyonyome** .
 
 ## Kpɔkplɔyiɖeme
 
-Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Ŋutilã Etɔ̃&quot; (Chinagbe me nyayɔyɔ:`3Tǐ` ) tsɔ nyakpakpa wɔ amedzrowo ƒe dekɔnu si zãa elektrikŋusẽ ƒe ƒutsotsoewo tsɔ ɖoa ​​dze, kple tamebubu si me kɔ kple mɔ̃ɖaŋununya si me nu dze edzi na.
+Dzɔdzɔmeŋutinunya me nyakpakpa gbalẽ si nye &quot;Ŋutilã Etɔ̃&quot; (Chinagbe me nyayɔyɔ: `3Tǐ` ) tsɔ nyakpakpa wɔ amedzrowo ƒe dekɔnu si zãa elektrikŋusẽ ƒe ƒutsotsoewo tsɔ ɖoa ​​dze, kple tamebubu si me kɔ kple mɔ̃ɖaŋununya si me nu dze edzi na.
 
 Biblia·Mose Ƒe Agbalẽ Gbãtɔ :
 

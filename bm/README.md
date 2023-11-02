@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Miirili ni dan tɛ <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Miirili ni dan tɛ<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown bamanankan bamanankan + kan caman static site generator.
 
@@ -8,11 +8,11 @@ Duniya sɛbɛnw ni bulɔguw jɔ teliya la minnu bɛ kan [kɛmɛ caman](https://g
 
 Mɔgɔ dɔw bɛ se k’a ɲininka, ikomi bamanankan baarakɛcogo bɛ navigatɔrɔw bɛɛ la, yala a man kan ka siti in kɛ diɲɛ kɔnɔ wa?
 
-N b’a fɛ k’a fɔ ko**siti minnu bɛ bamanankan baarakɛcogo jɔlenw dilan, olu dɔrɔn de bɛ se ka kan caman kɛ yɔrɔ kɔnɔ sɛbɛnni dafalen ɲinini ni ɲininikɛlanw ɲɛnabɔli dɛmɛ** .
+N b’a fɛ k’a fɔ ko **siti minnu bɛ bamanankan baarakɛcogo jɔlenw dilan, olu dɔrɔn de bɛ se ka kan caman kɛ yɔrɔ kɔnɔ sɛbɛnni dafalen ɲinini ni ɲininikɛlanw ɲɛnabɔli dɛmɛ** .
 
 ## Daminɛ Kuma
 
-Dɔnniya gafe min tɔgɔ ye ko &quot;Farikolo saba&quot; (Sinuwakan fɔcogo:`3Tǐ` ) bɛ dunan siwili dɔ labɛn min bɛ baara kɛ ni kuran-fiɲɛw ye walasa ka kumaɲɔgɔnya kɛ, ni miirili jɛlen ye ani fɛɛrɛ ɲɛtaa.
+Dɔnniya gafe min tɔgɔ ye ko &quot;Farikolo saba&quot; (Sinuwakan fɔcogo: `3Tǐ` ) bɛ dunan siwili dɔ labɛn min bɛ baara kɛ ni kuran-fiɲɛw ye walasa ka kumaɲɔgɔnya kɛ, ni miirili jɛlen ye ani fɛɛrɛ ɲɛtaa.
 
 Bibulu·Jenɛse :
 

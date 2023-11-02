@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Berfikir Tanpa Sempadan <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Berfikir Tanpa Sempadan<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, terjemahan Markdown + penjana tapak statik berbilang bahasa.
 
@@ -8,11 +8,11 @@ Bina dokumen dan blog antarabangsa dengan pantas yang menyokong [ratusan bahasa]
 
 Sesetengah orang mungkin bertanya, kerana semua penyemak imbas mempunyai fungsi terjemahan, adakah tidak perlu untuk mengantarabangsakan tapak web?
 
-Saya ingin mengatakan bahawa**hanya tapak web yang menjana terjemahan statik boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
+Saya ingin mengatakan bahawa **hanya tapak web yang menjana terjemahan statik boleh menyokong carian teks penuh dalam tapak berbilang bahasa dan pengoptimuman enjin carian** .
 
 ## Pengenalan
 
-Novel fiksyen sains &quot;Three Body&quot; (sebutan bahasa Cina:`3Tǐ` ) mengisahkan tamadun asing yang menggunakan gelombang elektromagnet untuk berkomunikasi, dengan pemikiran yang telus dan teknologi yang makmur.
+Novel fiksyen sains &quot;Three Body&quot; (sebutan bahasa Cina: `3Tǐ` ) mengisahkan tamadun asing yang menggunakan gelombang elektromagnet untuk berkomunikasi, dengan pemikiran yang telus dan teknologi yang makmur.
 
 Alkitab·Kejadian :
 

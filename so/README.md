@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ka Fikirka Xuduud La'aan <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ka Fikirka Xuduud La'aan<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Turjumaada Markdown + dhaliyaha goobta taagan ee luuqadaha badan.
 
@@ -8,11 +8,11 @@ Si dhakhso leh u dhis dukumeenti caalami ah iyo baloogyo taageera [boqolaal luqa
 
 Dadka qaar ayaa laga yaabaa inay weydiiyaan, maadaama dhammaan daalacayaashu leeyihiin shaqooyin tarjumaad, miyayna loo baahnayn in la caalamiyeeyo mareegaha?
 
-Waxaan jeclaan lahaa inaan sheego in**shabakadaha soo saara tarjumaadaha taagan ay taageeri karaan raadinta qoraalka buuxa ee goobta ku qoran luqadaha badan iyo hagaajinta mashiinka raadinta** .
+Waxaan jeclaan lahaa inaan sheego in **shabakadaha soo saara tarjumaadaha taagan ay taageeri karaan raadinta qoraalka buuxa ee goobta ku qoran luqadaha badan iyo hagaajinta mashiinka raadinta** .
 
 ## Hordhac
 
-Sheekada khayaaliga sayniska &quot;Three Body&quot; (ku dhawaaqida Shiinaha:`3Tǐ` ) waxay khiyaalisaa ilbaxnimada shisheeye ee adeegsata hirarka korantada si ay ula xiriirto, oo leh fikir hufan iyo tignoolajiyad barwaaqo leh.
+Sheekada khayaaliga sayniska &quot;Three Body&quot; (ku dhawaaqida Shiinaha: `3Tǐ` ) waxay khiyaalisaa ilbaxnimada shisheeye ee adeegsata hirarka korantada si ay ula xiriirto, oo leh fikir hufan iyo tignoolajiyad barwaaqo leh.
 
 Bible·Bilowgii :
 

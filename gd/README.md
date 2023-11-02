@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ A’ smaoineachadh gun chrìochan <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ A’ smaoineachadh gun chrìochan<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, eadar-theangachadh Markdown + gineadair làrach statach ioma-chànan.
 
@@ -8,11 +8,11 @@ Tog gu sgiobalta sgrìobhainnean agus blogaichean eadar-nàiseanta a bheir taic 
 
 Faodaidh cuid de dhaoine faighneachd, leis gu bheil gnìomhan eadar-theangachaidh aig a h-uile brobhsair, nach eil feum air an làrach-lìn a dhèanamh eadar-nàiseanta?
 
-Bu mhath leam a ràdh nach**urrainn ach làraich-lìn a ghineadh eadar-theangachaidhean statach taic a thoirt do sgrùdadh làn-theacsa ioma-chànanach air an làrach agus optimization einnsean sgrùdaidh** .
+Bu mhath leam a ràdh nach **urrainn ach làraich-lìn a ghineadh eadar-theangachaidhean statach taic a thoirt do sgrùdadh làn-theacsa ioma-chànanach air an làrach agus optimization einnsean sgrùdaidh** .
 
 ## Ro-Ràdh
 
-Tha an nobhail ficsean saidheans “Three Body” (fuaimneachadh Sìneach:`3Tǐ` ) a’ dèanamh ficsean air sìobhaltas coimheach a bhios a’ cleachdadh tonnan electromagnetic gus conaltradh, le smaoineachadh soilleir agus teicneòlas soirbheachail.
+Tha an nobhail ficsean saidheans “Three Body” (fuaimneachadh Sìneach: `3Tǐ` ) a’ dèanamh ficsean air sìobhaltas coimheach a bhios a’ cleachdadh tonnan electromagnetic gus conaltradh, le smaoineachadh soilleir agus teicneòlas soirbheachail.
 
 Bìoball · Genesis :
 

@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Ag Smaoineamh gan Teorainneacha <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Ag Smaoineamh gan Teorainneacha<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, aistriúchán Markdown + gineadóir suíomh statach iltheanga.
 
@@ -8,11 +8,11 @@ Tóg go tapa doiciméid agus blaganna idirnáisiúnta a thacaíonn leis [na céa
 
 B’fhéidir go n-iarrfadh daoine áirithe, ós rud é go bhfuil feidhmeanna aistriúcháin ag gach brabhsálaí, nach bhfuil gá leis an suíomh Gréasáin a idirnáisiúnú?
 
-Ba mhaith liom a rá nach**féidir ach le suíomhanna gréasáin a ghineann aistriúcháin statacha tacaíocht a thabhairt do chuardaigh lán-théacs ilteangach in-suíomh agus leas iomlán a bhaint as inneall cuardaigh** .
+Ba mhaith liom a rá nach **féidir ach le suíomhanna gréasáin a ghineann aistriúcháin statacha tacaíocht a thabhairt do chuardaigh lán-théacs ilteangach in-suíomh agus leas iomlán a bhaint as inneall cuardaigh** .
 
 ## Réamhrá
 
-Déanann an t-úrscéal ficsean eolaíochta &quot;Three Body&quot; (fuaimniú Sínis:`3Tǐ` ) sibhialtacht choimhthíoch a úsáideann tonnta leictreamaighnéadacha chun cumarsáid a dhéanamh, le smaointeoireacht thrédhearcach agus le teicneolaíocht rathúil.
+Déanann an t-úrscéal ficsean eolaíochta &quot;Three Body&quot; (fuaimniú Sínis: `3Tǐ` ) sibhialtacht choimhthíoch a úsáideann tonnta leictreamaighnéadacha chun cumarsáid a dhéanamh, le smaointeoireacht thrédhearcach agus le teicneolaíocht rathúil.
 
 Bíobla·Geineasas :
 

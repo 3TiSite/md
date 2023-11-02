@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ සීමා මායිම් නොමැතිව සිතීම <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ සීමා මායිම් නොමැතිව සිතීම<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown පරිවර්තනය + බහු භාෂා ස්ථිතික අඩවි උත්පාදක යන්ත්රය.
 
@@ -12,7 +12,7 @@
 
 ## හැදින්වීම
 
-විද්‍යා ප්‍රබන්ධ නවකතාවක් වන &quot;Three Body&quot; (චීන උච්චාරණය:`3Tǐ` ) විනිවිද පෙනෙන චින්තනය සහ සමෘද්ධිමත් තාක්‍ෂණය සමඟ සන්නිවේදනය සඳහා විද්‍යුත් චුම්භක තරංග භාවිතා කරන පිටසක්වල ශිෂ්ටාචාරයක් ප්‍රබන්ධ කරයි.
+විද්‍යා ප්‍රබන්ධ නවකතාවක් වන &quot;Three Body&quot; (චීන උච්චාරණය: `3Tǐ` ) විනිවිද පෙනෙන චින්තනය සහ සමෘද්ධිමත් තාක්‍ෂණය සමඟ සන්නිවේදනය සඳහා විද්‍යුත් චුම්භක තරංග භාවිතා කරන පිටසක්වල ශිෂ්ටාචාරයක් ප්‍රබන්ධ කරයි.
 
 බයිබලය·උත්පත්ති :
 

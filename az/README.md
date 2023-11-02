@@ -1,4 +1,4 @@
-<h1 style="justify-content:space-between">3Ti.Site ⋅ Sərhədsiz Düşünmək <img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
+<h1 style="justify-content:space-between">3Ti.Site ⋅ Sərhədsiz Düşünmək<img src="//i-01.eu.org/3Ti/logo.svg" style="user-select:none;margin-top:-1px;width:42px"></h1>
 
 3Ti.Site, Markdown tərcüməsi + çoxdilli statik sayt generatoru.
 
@@ -8,11 +8,11 @@
 
 Bəzi insanlar soruşa bilər, çünki bütün brauzerlərdə tərcümə funksiyaları var, veb-saytı beynəlmiləlləşdirməyə ehtiyac yoxdur?
 
-Demək istərdim ki**, yalnız statik tərcümələr yaradan veb-saytlar çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilər** .
+Demək istərdim ki **, yalnız statik tərcümələr yaradan veb-saytlar çoxdilli saytdaxili tam mətn axtarışını və axtarış sisteminin optimallaşdırılmasını dəstəkləyə bilər** .
 
 ## Giriş
 
-Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü:`3Tǐ` ) şəffaf düşüncə və çiçəklənən texnologiya ilə ünsiyyət qurmaq üçün elektromaqnit dalğalarından istifadə edən yadplanetli sivilizasiyanı uydurulmuşdur.
+Elmi fantastika romanı &quot;Üç Bədən&quot; (Çin tələffüzü: `3Tǐ` ) şəffaf düşüncə və çiçəklənən texnologiya ilə ünsiyyət qurmaq üçün elektromaqnit dalğalarından istifadə edən yadplanetli sivilizasiyanı uydurulmuşdur.
 
 Müqəddəs Kitab · Yaradılış :
 
