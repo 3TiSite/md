@@ -1,0 +1,7 @@
+lang:
+  en:
+  zh: en zh-TW ja
+
+on:
+  end:
+    - @3-/i18n-bin

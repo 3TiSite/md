@@ -1,0 +1,10 @@
+host: 3Ti.Site
+
+nav:
+  home: /
+  blog:
+  doc:
+
+url:
+  Md:
+    - /

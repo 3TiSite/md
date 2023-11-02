@@ -1,0 +1,34 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@3-/i18n':
+    specifier: link:../node/i18n
+    version: link:../node/i18n
+  '@3-/i18n-bin':
+    specifier: link:../node/i18n-bin
+    version: link:../node/i18n-bin
+  '@3-/pack':
+    specifier: link:../node/pack
+    version: link:../node/pack
+
+devDependencies:
+  '@3-/jsext':
+    specifier: ^0.0.5
+    version: 0.0.5
+  '@3-/uridir':
+    specifier: ^0.0.2
+    version: 0.0.2
+
+packages:
+
+  /@3-/jsext@0.0.5:
+    resolution: {integrity: sha512-CiMtSdo06CXvpDKCAfPUU7AfEHjirw9A3Zvyq7jwEBxnpwsvII4heJFXjW1CWcs9BFX89eTI085IYCoV3OiEMw==}
+    dev: true
+
+  /@3-/uridir@0.0.2:
+    resolution: {integrity: sha512-/3f/ja84V4dI3qmLWww0X7yuVZqO76oNpl2NFW5MIpyjhs35t16I9nv4Rp1blFBEQxdnY+y+uLT9tyNYvE/f8A==}
+    dev: true

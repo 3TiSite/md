@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@3-/i18n": "link:../node/i18n",
+    "@3-/i18n-bin": "link:../node/i18n-bin",
+    "@3-/pack": "link:../node/pack"
+  },
+  "devDependencies": {
+    "@3-/jsext": "^0.0.5",
+    "@3-/uridir": "^0.0.2"
+  }
+}
